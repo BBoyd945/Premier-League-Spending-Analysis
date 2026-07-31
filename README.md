@@ -5,7 +5,7 @@ This is a data analysis project investigating how transfer spending, recruitment
 ## Project Overview
 Football clubs spend millions on the transfer market each season, sometimes to no avail. This project aims to discover the relationship between a clubs spending and its success by quantifying spending into many different categories to see what effects a teams point total the most at the end of the season. From this i will understand if it is possible to predict a teams success pre season based on transfer spending and if so create a model that will be able to do so for this upcoming season (26/27).
 
-##objectives
+## objectives
 
 - Analyse relationship between transfer spending and league performance
 - compare predictive power of wage bills, transfer spend and net spends
@@ -14,14 +14,14 @@ Football clubs spend millions on the transfer market each season, sometimes to n
 - Identify clubs that consistently outperform financial expectations
 - build interactive dashboard to explore results
 
-##Planned data sources
+## Planned data sources
 
 Transfermarkt
 Deloitte
 Club annual Reports
 FBref
 
-##Workflow
+## Workflow
 
 1. Planning
 2. Data Collection
@@ -34,7 +34,7 @@ FBref
 9. Dashboard Development
 10. Final Report
 
-##Research Questions 
+## Research Questions 
 
 - Does transfer spending improve league performance?
 - is wage bill a strong predictor of performance?
