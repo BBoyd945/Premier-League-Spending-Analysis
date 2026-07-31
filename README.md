@@ -16,10 +16,10 @@ Football clubs spend millions on the transfer market each season, sometimes to n
 
 ## Planned data sources
 
--- Transfermarkt 
--- Deloitte
--- Club annual Reports
--- FBref
+- Transfermarkt 
+- Deloitte
+- Club annual Reports
+- FBref
 
 ## Workflow
 
