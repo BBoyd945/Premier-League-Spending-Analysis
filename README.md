@@ -23,8 +23,8 @@ Football clubs spend millions on the transfer market each season, sometimes to n
 
 ## Workflow
 
-1. Planning
-2. Data Collection
+1. Planning (DONE)
+2. Data Collection (IN PROGRESS)
 3. Data Cleaning
 4. Exploratory Data Analysis
 5. Feature Engineering
