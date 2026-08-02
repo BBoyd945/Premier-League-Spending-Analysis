@@ -5,5 +5,5 @@
 3. Does this also mean another count should be used to examine points gained after december?
 4. since european and cup football gets more serious post winter will there be a visible change in performance?
 5. This project will have to account for inflation of players and general inflation
-6. 
+6. How should i consider transfers between grouped clubs (eg clubs under blue co)?
 7. 
