@@ -100,9 +100,33 @@ def calculate_goal_difference(team_stats):
             team_stats[team]["GF"] - team_stats[team]["GA"]
         )
 
-def main():
 
-    matches = load_season("2223")
+def create_league_table(team_stats):
+    """
+    Convert team statistics into a DataFrame and sort into league order.
+    """
+
+    table = pd.DataFrame.from_dict(team_stats, orient="index")
+
+    table = table.sort_values(
+        by=["Points", "GD", "GF"],
+        ascending=False
+    )
+
+    table = table.reset_index()
+    table = table.rename(columns={"index": "Club"})
+
+    table.insert(0, "Position", range(1, len(table) + 1))
+
+    return table
+
+def process_season(season_code):
+    """
+    Process all matches for one Premier League season 
+    and return the completed league table.
+    """
+
+    matches = load_season(season_code)
 
     team_stats = initialise_team_stats()
 
@@ -111,9 +135,31 @@ def main():
 
     calculate_goal_difference(team_stats)
 
-    print(pd.DataFrame.from_dict(team_stats, orient="index"))
+    table = create_league_table(team_stats)
+
+    table.insert(0, "Season", season_code)
+
+    return table
 
 
+
+def main():
+
+    all_seasons = []
+   
+    for season_file in sorted(RAW_DATA.glob("premier_league_*.csv")):
+    
+        season_code = season_file.stem.split("_")[-1]
+    
+        print(f"Processing season {season_code}...")
+   
+        table = process_season(season_code)
+   
+        all_seasons.append(table)
+   
+    results = pd.concat(all_seasons, ignore_index=True)
+
+    print(results)
 
 if __name__ == "__main__":
     main()
