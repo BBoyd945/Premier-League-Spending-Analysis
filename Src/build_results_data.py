@@ -128,6 +128,10 @@ def process_season(season_code):
 
     matches = load_season(season_code)
 
+    matches = matches.dropna(
+        subset=["HomeTeam", "AwayTeam", "FTHG", "FTAG", "FTR"]
+        )
+
     team_stats = initialise_team_stats()
 
     for _, match in matches.iterrows():
@@ -159,7 +163,14 @@ def main():
    
     results = pd.concat(all_seasons, ignore_index=True)
 
-    print(results)
+    OUTPUT_FOLDER = Path("data/processed")
+    OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
+
+    results.to_csv(
+        OUTPUT_FOLDER / "club_season_results.csv",
+        index=False
+    )
+   
 
 if __name__ == "__main__":
     main()
