@@ -8,6 +8,11 @@ RAW_TRANSFER_DATA = Path("data/raw/transfers/transfers.csv")
 RAW_TRANSFER_DATA = Path("data/raw/transfers/transfers.csv")
 RESULTS_DATA = Path("data/processed/club_season_results.csv")
 SECONDARY_TRANSFER_DATA = Path("data/raw/transfers/premier-league.csv")
+NEW_TRANSFER_FILES = [
+    Path("data/raw/transfers/2023.csv"),
+    Path("data/raw/transfers/2024.csv"),
+    Path("data/raw/transfers/2025.csv"),
+]
 
 CLUB_DATA = Path("data/raw/transfers/clubs.csv")
 
@@ -301,6 +306,7 @@ def find_secondary_fee(
 def calculate_transfer_spending(
     summer_transfers,
     secondary_transfers,
+    recent_transfers,
     club_id,
     season
 ):
@@ -308,18 +314,17 @@ def calculate_transfer_spending(
     Calculate summer transfer spend, income and net spend
     for one club-season.
 
-    Missing fees in the primary dataset are checked against
-    the secondary Premier League transfer dataset.
-
-    Academy promotions into the same club's first team are
-    treated as zero-fee internal movements.
+    Missing fees are checked using:
+    1. Primary transfer dataset
+    2. Older Premier League fallback dataset
+    3. Recent eordo fallback dataset
 
     Tracks:
     - recovered numeric fees
-    - academy promotions
+    - internal club movements
     - recognised no-fee movements
     - genuinely unknown fees
-    - transfers not found in the secondary dataset
+    - transfers not found in any fallback dataset
     """
 
     club_transfers = summer_transfers[
@@ -338,14 +343,11 @@ def calculate_transfer_spending(
         club_transfers["from_club_id"] == club_id
     ].copy()
 
-    # -------------------------
-    # Quality-control counters
-    # -------------------------
-
     recovered_incoming = 0
     recovered_outgoing = 0
 
-    academy_promotions = 0
+    internal_incoming = 0
+    internal_outgoing = 0
 
     unknown_incoming = 0
     unknown_outgoing = 0
@@ -357,20 +359,18 @@ def calculate_transfer_spending(
     not_found_outgoing = 0
 
     # -------------------------
-    # Check missing incoming fees
+    # Incoming transfers
     # -------------------------
 
     for index, row in incoming[
         incoming["transfer_fee"].isna()
     ].iterrows():
 
-        # Internal academy promotion
         if is_internal_club_move(row):
             incoming.loc[index, "transfer_fee"] = 0.0
-            academy_promotions += 1
+            internal_incoming += 1
             continue
 
-        # Free-agent signing
         if is_non_transfer_move(row):
             incoming.loc[index, "transfer_fee"] = 0.0
             no_fee_incoming += 1
@@ -383,6 +383,17 @@ def calculate_transfer_spending(
             "in"
         )
 
+        # Old fallback has no coverage/match:
+        # try recent fallback.
+        if status == "not_found":
+
+            recovered_fee, status = find_recent_fee(
+                recent_transfers,
+                row["player_name"],
+                season,
+                "in"
+            )
+
         if status == "known":
             incoming.loc[index, "transfer_fee"] = recovered_fee
             recovered_incoming += 1
@@ -393,13 +404,6 @@ def calculate_transfer_spending(
 
         elif status == "unknown":
             unknown_incoming += 1
-
-            print(
-                f"UNKNOWN FEE | {season} | "
-                f"IN | {row['player_name']} | "
-                f"{row['from_club_name']} -> "
-                f"{row['to_club_name']}"
-            )
 
         elif status == "not_found":
             not_found_incoming += 1
@@ -412,18 +416,16 @@ def calculate_transfer_spending(
             )
 
     # -------------------------
-    # Check missing outgoing fees
+    # Outgoing transfers
     # -------------------------
 
     for index, row in outgoing[
         outgoing["transfer_fee"].isna()
     ].iterrows():
 
-        # Player released / becomes a free agent
-
         if is_internal_club_move(row):
             outgoing.loc[index, "transfer_fee"] = 0.0
-            no_fee_outgoing += 1
+            internal_outgoing += 1
             continue
 
         if is_non_transfer_move(row):
@@ -438,6 +440,15 @@ def calculate_transfer_spending(
             "out"
         )
 
+        if status == "not_found":
+
+            recovered_fee, status = find_recent_fee(
+                recent_transfers,
+                row["player_name"],
+                season,
+                "out"
+            )
+
         if status == "known":
             outgoing.loc[index, "transfer_fee"] = recovered_fee
             recovered_outgoing += 1
@@ -448,13 +459,6 @@ def calculate_transfer_spending(
 
         elif status == "unknown":
             unknown_outgoing += 1
-
-            print(
-                f"UNKNOWN FEE | {season} | "
-                f"OUT | {row['player_name']} | "
-                f"{row['from_club_name']} -> "
-                f"{row['to_club_name']}"
-            )
 
         elif status == "not_found":
             not_found_outgoing += 1
@@ -475,10 +479,6 @@ def calculate_transfer_spending(
 
     net_spend = summer_spend - summer_income
 
-    # -------------------------
-    # Return summary
-    # -------------------------
-
     return {
         "SummerSpend": summer_spend,
         "SummerIncome": summer_income,
@@ -487,7 +487,8 @@ def calculate_transfer_spending(
         "RecoveredIncomingFees": recovered_incoming,
         "RecoveredOutgoingFees": recovered_outgoing,
 
-        "AcademyPromotions": academy_promotions,
+        "InternalIncomingMoves": internal_incoming,
+        "InternalOutgoingMoves": internal_outgoing,
 
         "UnknownIncomingFees": unknown_incoming,
         "UnknownOutgoingFees": unknown_outgoing,
@@ -503,6 +504,7 @@ def calculate_season_transfer_spending(
     results,
     summer_transfers,
     secondary_transfers,
+    recent_transfers,
     season
 ):
     """
@@ -524,6 +526,7 @@ def calculate_season_transfer_spending(
         transfer_summary = calculate_transfer_spending(
             summer_transfers,
             secondary_transfers,
+            recent_transfers,
             club_id,
             season
         )
@@ -540,11 +543,12 @@ def calculate_season_transfer_spending(
 def calculate_all_transfer_spending(
     results,
     summer_transfers,
-    secondary_transfers
+    secondary_transfers,
+    recent_transfers
 ):
     """
     Calculate summer transfer spending for every
-    Premier League club-season in the results dataset.
+    Premier League club-season.
     """
 
     all_seasons = []
@@ -557,17 +561,16 @@ def calculate_all_transfer_spending(
             results,
             summer_transfers,
             secondary_transfers,
+            recent_transfers,
             season
         )
 
         all_seasons.append(season_data)
 
-    transfer_data = pd.concat(
+    return pd.concat(
         all_seasons,
         ignore_index=True
     )
-
-    return transfer_data
 
 def is_internal_club_move(row):
     """
@@ -678,9 +681,10 @@ def print_transfer_audit(transfer_data):
     total_spend = transfer_data["SummerSpend"].sum()
     total_income = transfer_data["SummerIncome"].sum()
 
-    academy_promotions = transfer_data[
-        "AcademyPromotions"
-    ].sum()
+    internal_moves = (
+        transfer_data["InternalIncomingMoves"].sum()
+        + transfer_data["InternalOutgoingMoves"].sum()
+    )
 
     recovered_fees = (
         transfer_data["RecoveredIncomingFees"].sum()
@@ -704,7 +708,7 @@ def print_transfer_audit(transfer_data):
     print(f"\nTotal summer spend:     €{total_spend / 1e9:,.2f}bn")
     print(f"Total summer income:    €{total_income / 1e9:,.2f}bn")
 
-    print(f"\nAcademy promotions:     {academy_promotions}")
+    print(f"\nInternal club moves:     {internal_moves}")
     print(f"Recovered fees:         {recovered_fees}")
     print(f"Unknown fees:           {unknown_fees}")
     print(f"Not-found transfers:    {not_found}")
@@ -831,29 +835,189 @@ def print_transfer_audit(transfer_data):
         )
     )
 
+def load_recent_transfer_data():
+    """
+    Load and combine the newer Premier League transfer
+    fallback datasets for 23/24 onward.
+    """
+
+    frames = []
+
+    for file in NEW_TRANSFER_FILES:
+        frame = pd.read_csv(file)
+        frames.append(frame)
+
+    recent_transfers = pd.concat(
+        frames,
+        ignore_index=True
+    )
+
+    return recent_transfers
+
+def find_recent_fee(
+    recent_transfers,
+    player_name,
+    season,
+    movement
+):
+    """
+    Search the newer eordo Premier League transfer dataset
+    for a matching summer transfer.
+
+    Returns:
+        fee_eur:
+            Numeric transfer fee in euros, or None.
+
+        fee_status:
+            "known"           -> numeric fee found
+            "no_fee_movement" -> recognised loan/free/internal-style movement
+            "unknown"         -> matching transfer exists but fee is NaN
+            "not_found"       -> no matching transfer found
+    """
+
+    # Convert 23/24 -> 2023
+    season_year = int("20" + season[:2])
+
+    matches = recent_transfers[
+        (recent_transfers["season"] == season_year) &
+        (
+            recent_transfers["player_name"]
+            .str.lower() == player_name.lower()
+        ) &
+        (
+            recent_transfers["movement"]
+            .str.lower() == movement.lower()
+        ) &
+        (
+            recent_transfers["window"]
+            .str.lower() == "summer"
+        )
+    ]
+
+    if matches.empty:
+        return None, "not_found"
+
+    # Check for numeric fee
+    fees = matches["fee"].dropna().unique()
+
+    if len(fees) == 1:
+        return float(fees[0]), "known"
+
+    # If a matching record exists but fee is NaN,
+    # inspect whether it is a loan movement.
+    if "is_loan" in matches.columns:
+        if matches["is_loan"].fillna(0).astype(bool).any():
+            return 0.0, "no_fee_movement"
+
+    # Matching transfer exists, but the fee is not reported
+    return None, "unknown"
+
 def main():
 
+    # -------------------------
+    # Load data
+    # -------------------------
+
+    results = load_results()
     transfers = load_transfers()
     secondary_transfers = load_secondary_transfers()
-    results = load_results()
+    recent_transfers = load_recent_transfer_data()
+
+    # -------------------------
+    # Prepare results
+    # -------------------------
 
     results["Season"] = results["Season"].apply(format_season)
 
     results = add_club_ids(results)
 
-    summer_transfers = filter_summer_transfers(
-        transfers
-    )
+    # -------------------------
+    # Prepare transfers
+    # -------------------------
+
+    summer_transfers = filter_summer_transfers(transfers)
+
+    # -------------------------
+    # Build transfer dataset
+    # -------------------------
 
     transfer_data = calculate_all_transfer_spending(
         results,
         summer_transfers,
-        secondary_transfers
+        secondary_transfers,
+        recent_transfers
     )
 
-    print_transfer_audit(
-        transfer_data
+    # -------------------------
+    # Audit
+    # -------------------------
+
+    print_transfer_audit(transfer_data)
+
+    # -------------------------
+    # Save transfer dataset
+    # -------------------------
+
+    output_folder = Path("data/processed")
+    output_folder.mkdir(parents=True, exist_ok=True)
+
+    transfer_output = (
+        output_folder / "club_season_transfers.csv"
     )
+
+    transfer_data.to_csv(
+        transfer_output,
+        index=False
+    )
+
+    # -------------------------
+    # Build master dataset
+    # -------------------------
+
+    master_data = results.merge(
+        transfer_data,
+        on=["Season", "Club", "club_id"],
+        how="left"
+    )
+
+    master_output = (
+        output_folder / "club_season_master.csv"
+    )
+
+    master_data.to_csv(
+        master_output,
+        index=False
+    )
+
+    # -------------------------
+    # Final validation
+    # -------------------------
+
+    print("\n" + "=" * 80)
+    print("MASTER DATASET VALIDATION")
+    print("=" * 80)
+
+    print(f"\nShape: {master_data.shape}")
+
+    duplicates = master_data.duplicated(
+        subset=["Season", "Club"]
+    ).sum()
+
+    print(f"Duplicate club-seasons: {duplicates}")
+
+    print("\nMissing transfer values:")
+    print(
+        master_data[
+            [
+                "SummerSpend",
+                "SummerIncome",
+                "NetSpend"
+            ]
+        ].isna().sum()
+    )
+
+    print(f"\nSaved transfer dataset to: {transfer_output}")
+    print(f"Saved master dataset to:   {master_output}")
 
 
 if __name__ == "__main__":
