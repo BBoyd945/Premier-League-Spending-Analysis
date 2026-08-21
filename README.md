@@ -14,18 +14,18 @@ Football clubs spend millions on the transfer market each season, sometimes to n
 - Identify clubs that consistently outperform financial expectations
 - build interactive dashboard to explore results
 
-## Planned data sources
+## Data sources
 
-- Transfermarkt 
-- Deloitte
-- Club annual Reports
-- FBref
+- Kaggle - Football Data from Transfermarkt (David Cariboo)
+- Football-Data.co.uk
+- Kaggle – Football Player Transfers (mexwell)
+- eordo/transfermarkt-data (GitHub)
 
 ## Workflow
 
 1. Planning (DONE)
-2. Data Collection (IN PROGRESS)
-3. Data Cleaning
+2. Data Collection (DONE)
+3. Data Cleaning (DONE)
 4. Exploratory Data Analysis
 5. Feature Engineering
 6. Stataistical Analysis
