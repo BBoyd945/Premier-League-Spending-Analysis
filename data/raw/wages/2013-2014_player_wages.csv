@@ -1,0 +1,573 @@
+Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,Player-additional
+1,Luis Suárez,uy URU,FW,Liverpool,26,£ 200000 (€ 230227 $252361),£ 10400000 (€ 11971793 $13122764),Unverified estimation,a6154613
+2,Yaya Touré,ci CIV,MF,Manchester City,30,£ 190000 (€ 218715 $239743),£ 9880000 (€ 11373203 $12466625),Unverified estimation,c204f844
+3,Eden Hazard,be BEL,FWMF,Chelsea,22,£ 181712 (€ 209174 $229284),£ 9449000 (€ 10877064 $11922788),Unverified estimation,a39bb753
+4,Robin van Persie,nl NED,FW,Manchester Utd,29,£ 180000 (€ 207204 $227125),£ 9360000 (€ 10774613 $11810487),Unverified estimation,3fcab3a8
+5,Wayne Rooney,eng ENG,FWMF,Manchester Utd,27,£ 180000 (€ 207204 $227125),£ 9360000 (€ 10774613 $11810487),Unverified estimation,f07be45a
+6,Fernando Torres,es ESP,FW,Chelsea,29,£ 175000 (€ 201448 $220816),£ 9100000 (€ 10475318 $11482418),Unverified estimation,bdf7b97d
+7,John Terry,eng ENG,DF,Chelsea,32,£ 175000 (€ 201448 $220816),£ 9100000 (€ 10475318 $11482418),Unverified estimation,68517cfd
+8,David Silva,es ESP,FWMF,Manchester City,27,£ 160000 (€ 184181 $201889),£ 8320000 (€ 9577434 $10498211),Unverified estimation,e2716bd0
+9,Sergio Agüero,ar ARG,FW,Manchester City,25,£ 150000 (€ 172670 $189271),£ 7800000 (€ 8978844 $9842073),Unverified estimation,4d034881
+10,Vincent Kompany,be BEL,DF,Manchester City,27,£ 150000 (€ 172670 $189271),£ 7800000 (€ 8978844 $9842073),Unverified estimation,d2bff301
+11,Mesut Özil,de GER,MF,Arsenal,24,£ 140000 (€ 161159 $176653),£ 7280000 (€ 8380255 $9185935),Unverified estimation,16380240
+12,Frank Lampard,eng ENG,MF,Chelsea,35,£ 140000 (€ 161159 $176653),£ 7280000 (€ 8380255 $9185935),Unverified estimation,268df6b1
+13,Samir Nasri,fr FRA,FWMF,Manchester City,26,£ 140000 (€ 161159 $176653),£ 7280000 (€ 8380255 $9185935),Unverified estimation,165bed61
+14,Ashley Young,eng ENG,DFFW,Manchester Utd,28,£ 120000 (€ 138136 $151417),£ 6240000 (€ 7183076 $7873658),Unverified estimation,be927d03
+15,Steven Gerrard,eng ENG,MF,Liverpool,33,£ 120000 (€ 138136 $151417),£ 6240000 (€ 7183076 $7873658),Unverified estimation,caeb5442
+16,Ashley Cole,eng ENG,DF,Chelsea,32,£ 120000 (€ 138136 $151417),£ 6240000 (€ 7183076 $7873658),Unverified estimation,be091289
+17,Gareth Barry,eng ENG,MF,Everton,32,£ 120000 (€ 138136 $151417),£ 6240000 (€ 7183076 $7873658),Unverified estimation,7dbbe367
+18,Edin Džeko,ba BIH,FW,Manchester City,27,£ 120000 (€ 138136 $151417),£ 6240000 (€ 7183076 $7873658),Unverified estimation,3bb7f478
+19,Samuel Eto'o,cm CMR,FW,Chelsea,32,£ 115000 (€ 132380 $145107),£ 5980000 (€ 6883781 $7545589),Unverified estimation,06420c93
+20,Javi García,es ESP,DFMF,Manchester City,26,£ 110000 (€ 126625 $138798),£ 5720000 (€ 6584486 $7217520),Unverified estimation,167c1bb0
+21,Roberto Soldado,es ESP,FW,Tottenham,28,£ 105000 (€ 120869 $132489),£ 5460000 (€ 6285191 $6889451),Unverified estimation,9d66fbe3
+22,Lukas Podolski,de GER,FWMF,Arsenal,28,£ 100000 (€ 115113 $126180),£ 5200000 (€ 5985896 $6561382),Unverified estimation,88f0a9a0
+23,Theo Walcott,eng ENG,FWMF,Arsenal,24,£ 100000 (€ 115113 $126180),£ 5200000 (€ 5985896 $6561382),Unverified estimation,1ecb65be
+24,Rio Ferdinand,eng ENG,DF,Manchester Utd,34,£ 100000 (€ 115113 $126180),£ 5200000 (€ 5985896 $6561382),Unverified estimation,52465662
+25,Emmanuel Adebayor,tg TOG,FW,Tottenham,29,£ 100000 (€ 115113 $126180),£ 5200000 (€ 5985896 $6561382),Unverified estimation,936d9e3e
+26,Petr Čech,cz CZE,GK,Chelsea,31,£ 100000 (€ 115113 $126180),£ 5200000 (€ 5985896 $6561382),Unverified estimation,71672fa0
+27,Fernandinho,br BRA,DFMF,Manchester City,28,£ 95000 (€ 109358 $119871),£ 4940000 (€ 5686601 $6233313),Unverified estimation,101da2b5
+28,Marco Borriello,it ITA,FW,West Ham,31,£ 92962 (€ 107011 $117299),£ 4834000 (€ 5564581 $6099562),Unverified estimation,a889ffc7
+29,Nani,pt POR,FWMF,Manchester Utd,26,£ 90000 (€ 103602 $113562),£ 4680000 (€ 5387307 $5905244),Unverified estimation,15e9c7e6
+30,Patrice Evra,fr FRA,DF,Manchester Utd,32,£ 90000 (€ 103602 $113562),£ 4680000 (€ 5387307 $5905244),Unverified estimation,51a3caf1
+31,Gaël Clichy,fr FRA,DF,Manchester City,28,£ 90000 (€ 103602 $113562),£ 4680000 (€ 5387307 $5905244),Unverified estimation,450ad405
+32,Joleon Lescott,eng ENG,DF,Manchester City,30,£ 90000 (€ 103602 $113562),£ 4680000 (€ 5387307 $5905244),Unverified estimation,62393d3b
+33,Pablo Zabaleta,ar ARG,DFMF,Manchester City,28,£ 90000 (€ 103602 $113562),£ 4680000 (€ 5387307 $5905244),Unverified estimation,6813ac34
+34,Willian,br BRA,FWMF,Chelsea,24,£ 86558 (€ 99640 $109219),£ 4501000 (€ 5181254 $5679381),Unverified estimation,8b9ebd03
+35,James Milner,eng ENG,DFMF,Manchester City,27,£ 85000 (€ 97846 $107253),£ 4420000 (€ 5088012 $5577175),Unverified estimation,2f90f6b8
+36,Jesús Navas,es ESP,DFMF,Manchester City,27,£ 85000 (€ 97846 $107253),£ 4420000 (€ 5088012 $5577175),Unverified estimation,3f10bd22
+37,Jack Wilshere,eng ENG,MF,Arsenal,21,£ 80000 (€ 92091 $100944),£ 4160000 (€ 4788717 $5249105),Unverified estimation,9c318325
+38,Per Mertesacker,de GER,DF,Arsenal,28,£ 80000 (€ 92091 $100944),£ 4160000 (€ 4788717 $5249105),Unverified estimation,5be28712
+39,Michael Carrick,eng ENG,MF,Manchester Utd,32,£ 80000 (€ 92091 $100944),£ 4160000 (€ 4788717 $5249105),Unverified estimation,ab7263c1
+40,Shinji Kagawa,jp JPN,FWMF,Manchester Utd,24,£ 80000 (€ 92091 $100944),£ 4160000 (€ 4788717 $5249105),Unverified estimation,5afafbfe
+41,Érik Lamela,ar ARG,FWMF,Tottenham,21,£ 80000 (€ 92091 $100944),£ 4160000 (€ 4788717 $5249105),Unverified estimation,abe66106
+42,Hugo Lloris,fr FRA,GK,Tottenham,26,£ 80000 (€ 92091 $100944),£ 4160000 (€ 4788717 $5249105),Unverified estimation,8f62b6ee
+43,Daniel Agger,dk DEN,DF,Liverpool,28,£ 80000 (€ 92091 $100944),£ 4160000 (€ 4788717 $5249105),Unverified estimation,f1ea4af0
+44,Daniel Sturridge,eng ENG,FWMF,Liverpool,23,£ 80000 (€ 92091 $100944),£ 4160000 (€ 4788717 $5249105),Unverified estimation,1b7ec703
+45,Glen Johnson,eng ENG,DF,Liverpool,28,£ 80000 (€ 92091 $100944),£ 4160000 (€ 4788717 $5249105),Unverified estimation,8cceca90
+46,Loïc Rémy,fr FRA,FW,Newcastle,26,£ 80000 (€ 92091 $100944),£ 4160000 (€ 4788717 $5249105),Unverified estimation,5c2da10f
+47,Demba Ba,sn SEN,FW,Chelsea,28,£ 80000 (€ 92091 $100944),£ 4160000 (€ 4788717 $5249105),Unverified estimation,8b683d09
+48,Gary Cahill,eng ENG,DF,Chelsea,27,£ 80000 (€ 92091 $100944),£ 4160000 (€ 4788717 $5249105),Unverified estimation,7914b9fe
+49,Joe Hart,eng ENG,GK,Manchester City,26,£ 80000 (€ 92091 $100944),£ 4160000 (€ 4788717 $5249105),Unverified estimation,cb4f24c6
+50,Stevan Jovetić,me MNE,FWMF,Manchester City,23,£ 80000 (€ 92091 $100944),£ 4160000 (€ 4788717 $5249105),Unverified estimation,f36c432f
+51,André Schürrle,de GER,FWMF,Chelsea,22,£ 78000 (€ 89788 $98421),£ 4056000 (€ 4668999 $5117878),Unverified estimation,ecbb3fdf
+52,Marouane Fellaini,be BEL,MF,Manchester Utd,25,£ 75000 (€ 86335 $94635),£ 3900000 (€ 4489422 $4921036),Unverified estimation,87575fd9
+53,Ryan Giggs,wls WAL,FWMF,Manchester Utd,39,£ 75000 (€ 86335 $94635),£ 3900000 (€ 4489422 $4921036),Unverified estimation,561de8d0
+54,Lucas Leiva,br BRA,MF,Liverpool,26,£ 75000 (€ 86335 $94635),£ 3900000 (€ 4489422 $4921036),Unverified estimation,4c78b5ed
+55,David Luiz,br BRA,DFMF,Chelsea,26,£ 75000 (€ 86335 $94635),£ 3900000 (€ 4489422 $4921036),Unverified estimation,c0e27d1a
+56,Álvaro Negredo,es ESP,FW,Manchester City,27,£ 75000 (€ 86335 $94635),£ 3900000 (€ 4489422 $4921036),Unverified estimation,63b0ca6b
+57,Matija Nastasić,rs SRB,DF,Manchester City,20,£ 75000 (€ 86335 $94635),£ 3900000 (€ 4489422 $4921036),Unverified estimation,f35430a4
+58,Santi Cazorla,es ESP,MF,Arsenal,28,£ 70000 (€ 80579 $88326),£ 3640000 (€ 4190127 $4592967),Unverified estimation,e2e9c250
+59,Thomas Vermaelen,be BEL,DF,Arsenal,27,£ 70000 (€ 80579 $88326),£ 3640000 (€ 4190127 $4592967),Unverified estimation,d0d79694
+60,Antonio Valencia,ec ECU,DFMF,Manchester Utd,27,£ 70000 (€ 80579 $88326),£ 3640000 (€ 4190127 $4592967),Unverified estimation,08aa17d0
+61,Danny Welbeck,eng ENG,FWMF,Manchester Utd,22,£ 70000 (€ 80579 $88326),£ 3640000 (€ 4190127 $4592967),Unverified estimation,ce5143da
+62,Darren Fletcher,sct SCO,MF,Manchester Utd,29,£ 70000 (€ 80579 $88326),£ 3640000 (€ 4190127 $4592967),Unverified estimation,184e4970
+63,David de Gea,es ESP,GK,Manchester Utd,22,£ 70000 (€ 80579 $88326),£ 3640000 (€ 4190127 $4592967),Unverified estimation,7ba6d84e
+64,Juan Mata,es ESP,FWMF,Manchester Utd,25,£ 70000 (€ 80579 $88326),£ 3640000 (€ 4190127 $4592967),Unverified estimation,29733c72
+65,Andy Carroll,eng ENG,FW,West Ham,24,£ 70000 (€ 80579 $88326),£ 3640000 (€ 4190127 $4592967),Unverified estimation,b581987a
+66,Kolo Touré,ci CIV,DF,Liverpool,32,£ 70000 (€ 80579 $88326),£ 3640000 (€ 4190127 $4592967),Unverified estimation,3301c9f4
+67,Martin Škrtel,sk SVK,DF,Liverpool,28,£ 70000 (€ 80579 $88326),£ 3640000 (€ 4190127 $4592967),Unverified estimation,defb905a
+68,Nemanja Matić,rs SRB,MF,Chelsea,24,£ 70000 (€ 80579 $88326),£ 3640000 (€ 4190127 $4592967),Unverified estimation,eb7822d7
+69,Leighton Baines,eng ENG,DF,Everton,28,£ 70000 (€ 80579 $88326),£ 3640000 (€ 4190127 $4592967),Unverified estimation,b18095b6
+70,Martín Demichelis,ar ARG,DFMF,Manchester City,32,£ 70000 (€ 80579 $88326),£ 3640000 (€ 4190127 $4592967),Unverified estimation,e9c7102a
+71,Mikel Arteta,es ESP,MF,Arsenal,31,£ 65000 (€ 74824 $82017),£ 3380000 (€ 3890833 $4264898),Unverified estimation,d934d1e6
+72,Jonny Evans,nir NIR,DF,Manchester Utd,25,£ 65000 (€ 74824 $82017),£ 3380000 (€ 3890833 $4264898),Unverified estimation,f8fcd2a5
+73,Darren Bent,eng ENG,,Aston Villa,29,£ 65000 (€ 74824 $82017),£ 3380000 (€ 3890833 $4264898),Unverified estimation,fe97f10b
+74,Diego Lugano,uy URU,DF,West Brom,32,£ 64000 (€ 73673 $80755),£ 3328000 (€ 3830974 $4199284),Unverified estimation,303ad7c3
+75,Aleksandar Kolarov,rs SRB,DF,Manchester City,27,£ 63385 (€ 72964 $79979),£ 3296000 (€ 3794137 $4158907),Unverified estimation,eda40760
+76,Gastón Ramírez,uy URU,FWMF,Southampton,22,£ 62000 (€ 71370 $78232),£ 3224000 (€ 3711256 $4068057),Unverified estimation,2c851997
+77,Aaron Ramsey,wls WAL,MF,Arsenal,22,£ 60000 (€ 69068 $75708),£ 3120000 (€ 3591538 $3936829),Unverified estimation,ef619b0b
+78,Laurent Koscielny,fr FRA,DF,Arsenal,27,£ 60000 (€ 69068 $75708),£ 3120000 (€ 3591538 $3936829),Unverified estimation,f5efb153
+79,Christian Eriksen,dk DEN,MF,Tottenham,21,£ 60000 (€ 69068 $75708),£ 3120000 (€ 3591538 $3936829),Unverified estimation,980522ec
+80,Lewis Holtby,de GER,MF,Tottenham,22,£ 60000 (€ 69068 $75708),£ 3120000 (€ 3591538 $3936829),Unverified estimation,410ab123
+81,Alou Diarra,fr FRA,MF,West Ham,32,£ 60000 (€ 69068 $75708),£ 3120000 (€ 3591538 $3936829),Unverified estimation,9b74ce00
+82,Jordan Henderson,eng ENG,MF,Liverpool,23,£ 60000 (€ 69068 $75708),£ 3120000 (€ 3591538 $3936829),Unverified estimation,935e6b8f
+83,Mamadou Sakho,fr FRA,DF,Liverpool,23,£ 60000 (€ 69068 $75708),£ 3120000 (€ 3591538 $3936829),Unverified estimation,87935cf3
+84,Adam Johnson,eng ENG,MF,Sunderland,26,£ 60000 (€ 69068 $75708),£ 3120000 (€ 3591538 $3936829),Unverified estimation,1ba61951
+85,Fabricio Coloccini,ar ARG,DFMF,Newcastle,31,£ 60000 (€ 69068 $75708),£ 3120000 (€ 3591538 $3936829),Unverified estimation,78b3399f
+86,Branislav Ivanović,rs SRB,DF,Chelsea,29,£ 60000 (€ 69068 $75708),£ 3120000 (€ 3591538 $3936829),Unverified estimation,85f8571a
+87,Micah Richards,eng ENG,DF,Manchester City,25,£ 60000 (€ 69068 $75708),£ 3120000 (€ 3591538 $3936829),Unverified estimation,ff87875a
+88,Wojciech Szczęsny,pl POL,GK,Arsenal,23,£ 55000 (€ 63312 $69399),£ 2860000 (€ 3292243 $3608760),Unverified estimation,01b8a2b2
+89,Aaron Lennon,eng ENG,FWMF,Tottenham,26,£ 55000 (€ 63312 $69399),£ 2860000 (€ 3292243 $3608760),Unverified estimation,2ff964a0
+90,Kyle Walker,eng ENG,DFMF,Tottenham,23,£ 55000 (€ 63312 $69399),£ 2860000 (€ 3292243 $3608760),Unverified estimation,86dd77d1
+91,Paulinho,br BRA,MF,Tottenham,25,£ 55000 (€ 63312 $69399),£ 2860000 (€ 3292243 $3608760),Unverified estimation,bb7337cc
+92,Scott Sinclair,eng ENG,FWMF,West Brom,24,£ 55000 (€ 63312 $69399),£ 2860000 (€ 3292243 $3608760),Unverified estimation,273c483b
+93,José Enrique,es ESP,DF,Liverpool,27,£ 55000 (€ 63312 $69399),£ 2860000 (€ 3292243 $3608760),Unverified estimation,d56364d5
+94,Ramires,br BRA,MF,Chelsea,26,£ 55000 (€ 63312 $69399),£ 2860000 (€ 3292243 $3608760),Unverified estimation,4cce2c67
+95,Jack Rodwell,eng ENG,DFMF,Manchester City,22,£ 55000 (€ 63312 $69399),£ 2860000 (€ 3292243 $3608760),Unverified estimation,a07579ee
+96,Alex Oxlade-Chamberlain,eng ENG,FWMF,Arsenal,19,£ 52500 (€ 60435 $66245),£ 2730000 (€ 3142596 $3444725),Unverified estimation,38c7feef
+97,Shay Given,ie IRL,,Aston Villa,37,£ 52000 (€ 59859 $65614),£ 2704000 (€ 3112666 $3411919),Unverified estimation,0db918ff
+98,John O'Shea,ie IRL,DFMF,Sunderland,32,£ 51000 (€ 58708 $64352),£ 2652000 (€ 3052807 $3346305),Unverified estimation,7c1f4685
+99,Wes Brown,eng ENG,DF,Sunderland,33,£ 51000 (€ 58708 $64352),£ 2652000 (€ 3052807 $3346305),Unverified estimation,659ccc97
+100,Nicolas Anelka,fr FRA,FW,West Brom,34,£ 50712 (€ 58376 $63988),£ 2637000 (€ 3035540 $3327378),Unverified estimation,931ed5e9
+101,Mathieu Flamini,fr FRA,MF,Arsenal,29,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,148d4105
+102,Nicklas Bendtner,dk DEN,FW,Arsenal,25,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,9f9c57f0
+103,Olivier Giroud,fr FRA,FW,Arsenal,26,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,16ceb862
+104,Tomáš Rosický,cz CZE,MF,Arsenal,32,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,dbb688e3
+105,Adnan Januzaj,be BEL,FWMF,Manchester Utd,18,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,4737cebe
+106,Chris Smalling,eng ENG,DF,Manchester Utd,23,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,b6964eb6
+107,Phil Jones,eng ENG,DFMF,Manchester Utd,21,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,def899bd
+108,Rafael,br BRA,DFMF,Manchester Utd,23,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,9a1f2e1c
+109,Brad Friedel,us USA,GK,Tottenham,42,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,b8c0a975
+110,Étienne Capoue,fr FRA,MF,Tottenham,25,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,5acc4a10
+111,Mousa Dembélé,be BEL,MF,Tottenham,26,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,f7ee69fb
+112,Gary Medel,cl CHI,DFMF,Cardiff City,25,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,563a68ad
+113,Joe Cole,eng ENG,MF,West Ham,31,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,2c2f117b
+114,Kevin Nolan,eng ENG,MF,West Ham,31,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,3d307105
+115,Stewart Downing,eng ENG,FWMF,West Ham,29,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,b13c4620
+116,Lee Cattermole,eng ENG,MF,Sunderland,25,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,538e77d5
+117,Aiden McGeady,ie IRL,FWMF,Everton,27,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,c7df693b
+118,Phil Jagielka,eng ENG,DFMF,Everton,30,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,3233eefd
+119,Steven Pienaar,za RSA,MF,Everton,31,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,8056f6e6
+120,Brede Hangeland,no NOR,DF,Fulham,32,£ 50000 (€ 57557 $63090),£ 2600000 (€ 2992948 $3280691),Unverified estimation,7cbeb80c
+121,Luuk de Jong,nl NED,FW,Newcastle,22,£ 48173 (€ 55454 $60785),£ 2505000 (€ 2883590 $3160820),Unverified estimation,abb3bb95
+122,Charles N'Zogbia,fr FRA,,Aston Villa,27,£ 48000 (€ 55254 $60567),£ 2496000 (€ 2873230 $3149463),Unverified estimation,4e31f3e2
+123,Peter Crouch,eng ENG,FW,Stoke City,32,£ 45000 (€ 51801 $56781),£ 2340000 (€ 2693653 $2952622),Unverified estimation,73d9bdc7
+124,Ryan Shawcross,eng ENG,DF,Stoke City,25,£ 45000 (€ 51801 $56781),£ 2340000 (€ 2693653 $2952622),Unverified estimation,285a3d44
+125,Wilson Palacios,hn HON,MF,Stoke City,29,£ 45000 (€ 51801 $56781),£ 2340000 (€ 2693653 $2952622),Unverified estimation,58df81fc
+126,Jonás Gutiérrez,ar ARG,MF,Norwich City,30,£ 45000 (€ 51801 $56781),£ 2340000 (€ 2693653 $2952622),Unverified estimation,816fd91c
+127,Adam Lallana,eng ENG,FWMF,Southampton,25,£ 45000 (€ 51801 $56781),£ 2340000 (€ 2693653 $2952622),Unverified estimation,99813635
+128,Michael Dawson,eng ENG,DF,Tottenham,29,£ 45000 (€ 51801 $56781),£ 2340000 (€ 2693653 $2952622),Unverified estimation,4771114f
+129,Jonas Olsson,se SWE,DF,West Brom,30,£ 45000 (€ 51801 $56781),£ 2340000 (€ 2693653 $2952622),Unverified estimation,48844a9b
+130,Joe Allen,wls WAL,MF,Liverpool,23,£ 45000 (€ 51801 $56781),£ 2340000 (€ 2693653 $2952622),Unverified estimation,9feb8f24
+131,Alan Hutton,sct SCO,,Aston Villa,28,£ 45000 (€ 51801 $56781),£ 2340000 (€ 2693653 $2952622),Unverified estimation,688ae34c
+132,Jozy Altidore,us USA,FW,Sunderland,23,£ 45000 (€ 51801 $56781),£ 2340000 (€ 2693653 $2952622),Unverified estimation,8db8ad1e
+133,Steven Fletcher,sct SCO,FW,Sunderland,26,£ 45000 (€ 51801 $56781),£ 2340000 (€ 2693653 $2952622),Unverified estimation,2c9c3502
+134,Sylvain Distin,fr FRA,DF,Everton,35,£ 45000 (€ 51801 $56781),£ 2340000 (€ 2693653 $2952622),Unverified estimation,002d06bb
+135,Joseph Yobo,ng NGA,DF,Norwich City,32,£ 44981 (€ 51779 $56757),£ 2339000 (€ 2692502 $2951360),Unverified estimation,acd633df
+136,Abou Diaby,fr FRA,MF,Arsenal,27,£ 44096 (€ 50761 $55641),£ 2293000 (€ 2639550 $2893317),Unverified estimation,8c8b5071
+137,Antonio Nocerino,it ITA,MF,West Ham,28,£ 42769 (€ 49233 $53966),£ 2224000 (€ 2560122 $2806253),Unverified estimation,07cf67f3
+138,Fabian Delph,eng ENG,DFMF,Aston Villa,23,£ 42500 (€ 48923 $53627),£ 2210000 (€ 2544006 $2788587),Unverified estimation,111c3236
+139,Morgan Amalfitano,fr FRA,MF,West Brom,28,£ 40962 (€ 47152 $51685),£ 2130000 (€ 2451915 $2687643),Unverified estimation,ab914649
+140,Bacary Sagna,fr FRA,DF,Arsenal,30,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,6ef56efd
+141,Kieran Gibbs,eng ENG,DFMF,Arsenal,23,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,46ee5234
+142,Anders Lindegaard,dk DEN,GK,Manchester Utd,29,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,636f1a28
+143,Tom Cleverley,eng ENG,MF,Manchester Utd,23,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,6cdd8245
+144,Dejan Lovren,hr CRO,DF,Southampton,24,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,1a2935f6
+145,Rickie Lambert,eng ENG,FW,Southampton,31,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,495de82c
+146,Nacer Chadli,be BEL,FWMF,Tottenham,23,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,5b54bf3b
+147,Ben Foster,eng ENG,GK,West Brom,30,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,d0b3ceb9
+148,Youssouf Mulumbu,cd COD,MF,West Brom,26,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,a275b145
+149,Simon Mignolet,be BEL,GK,Liverpool,25,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,d436eb94
+150,Craig Gardner,eng ENG,MF,Sunderland,26,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,1117b9ff
+151,Sebastian Larsson,se SWE,MF,Sunderland,28,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,b26efc36
+152,Hatem Ben Arfa,fr FRA,FWMF,Newcastle,26,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,74dc806c
+153,Mapou Yanga-Mbiwa,fr FRA,DF,Newcastle,24,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,20573d10
+154,Mathieu Debuchy,fr FRA,DF,Newcastle,28,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,92232aad
+155,Moussa Sissoko,fr FRA,MF,Newcastle,23,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,2acd49b9
+156,Steven Taylor,eng ENG,DF,Newcastle,27,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,9f9ba8ca
+157,Sylvain Marveaux,fr FRA,FWMF,Newcastle,27,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,4ef705ab
+158,Nikica Jelavić,hr CRO,FW,Hull City,27,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,1a29f38c
+159,Oscar,br BRA,FWMF,Chelsea,21,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,57fe98dd
+160,Romelu Lukaku,be BEL,FW,Chelsea,20,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,5eae500a
+161,Arouna Koné,ci CIV,FW,Everton,29,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,f9a72ca4
+162,James McCarthy,ie IRL,MF,Everton,22,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,64b08de7
+163,Kevin Mirallas,be BEL,FWMF,Everton,25,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,aa51343f
+164,Leon Osman,eng ENG,MF,Everton,32,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,a014c247
+165,Hugo Rodallega,co COL,FW,Fulham,28,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,9683d0b2
+166,Maarten Stekelenburg,nl NED,GK,Fulham,30,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,fefce889
+167,Scott Parker,eng ENG,MF,Fulham,32,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,65faf2a1
+168,Steve Sidwell,eng ENG,MF,Fulham,30,£ 40000 (€ 46045 $50472),£ 2080000 (€ 2394359 $2624553),Unverified estimation,ed083afd
+169,Aly Cissokho,fr FRA,DF,Liverpool,25,£ 39019 (€ 44916 $49235),£ 2029000 (€ 2335651 $2560201),Unverified estimation,83a2bb30
+170,Emanuele Giaccherini,it ITA,FWMF,Sunderland,28,£ 39000 (€ 44894 $49210),£ 2028000 (€ 2334500 $2558939),Unverified estimation,1c50f354
+171,Jan Vertonghen,be BEL,DF,Tottenham,26,£ 38038 (€ 43787 $47997),£ 1978000 (€ 2276943 $2495849),Unverified estimation,ba23a904
+172,Victor Wanyama,ke KEN,MF,Southampton,22,£ 38000 (€ 43743 $47949),£ 1976000 (€ 2274641 $2493325),Unverified estimation,e0900238
+173,Tim Howard,us USA,GK,Everton,34,£ 38000 (€ 43743 $47949),£ 1976000 (€ 2274641 $2493325),Unverified estimation,c444465e
+174,Robert Huth,de GER,DF,Stoke City,28,£ 37500 (€ 43168 $47318),£ 1950000 (€ 2244711 $2460518),Unverified estimation,0bd1ea64
+175,Pablo Armero,co COL,DFMF,West Ham,26,£ 37077 (€ 42681 $46784),£ 1928000 (€ 2219386 $2432758),Unverified estimation,afabf74e
+176,Christian Benteke,be BEL,FW,Aston Villa,22,£ 36500 (€ 42016 $46056),£ 1898000 (€ 2184852 $2394904),Unverified estimation,ab070c55
+177,Charlie Adam,sct SCO,MF,Stoke City,27,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,aff418dc
+178,John Guidetti,se SWE,FW,Stoke City,21,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,99bebd12
+179,Marko Arnautović,at AUT,FWMF,Stoke City,24,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,00459419
+180,Matthew Etherington,eng ENG,MF,Stoke City,31,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,ef616df9
+181,Peter Odemwingie,ng NGA,FW,Stoke City,32,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,b16150ac
+182,Wilfried Zaha,ci CIV,FWMF,Manchester Utd,20,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,b2bc3b1f
+183,John Ruddy,eng ENG,GK,Norwich City,26,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,da8b19e2
+184,Sébastien Bassong,cm CMR,DF,Norwich City,27,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,0d521662
+185,Artur Boruc,pl POL,GK,Southampton,33,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,34ccf6fa
+186,Morgan Schneiderlin,fr FRA,MF,Southampton,23,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,51b41c5c
+187,Craig Bellamy,wls WAL,FW,Cardiff City,34,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,b9eae55b
+188,Steven Caulker,sl SLE,DF,Cardiff City,21,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,2592d9b5
+189,James Collins,wls WAL,DF,West Ham,29,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,c61f1719
+190,Matthew Jarvis,eng ENG,MF,West Ham,27,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,02d6d2b4
+191,Mohamed Diamé,sn SEN,MF,West Ham,26,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,b7d082af
+192,Andrea Dossena,it ITA,DFMF,Sunderland,31,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,3ae59b9c
+193,Carlos Cuéllar,es ESP,DF,Sunderland,31,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,1222ab35
+194,Keiren Westwood,ie IRL,GK,Sunderland,28,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,674ef042
+195,Santiago Vergini,ar ARG,DF,Sunderland,24,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,6d041dd0
+196,Vurnon Anita,cw CUW,DFMF,Newcastle,24,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,2d368fd5
+197,Mark Schwarzer,au AUS,GK,Chelsea,40,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,da409c6f
+198,Oriol Romeu,es ESP,,Chelsea,21,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,4b511457
+199,Darron Gibson,ie IRL,MF,Everton,25,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,f0e72e1c
+200,Michu,es ESP,FWMF,Swansea City,27,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,98429b7b
+201,Damien Duff,ie IRL,FWMF,Fulham,34,£ 35000 (€ 40290 $44163),£ 1820000 (€ 2095064 $2296484),Unverified estimation,057a6936
+202,Johan Elmander,se SWE,FW,Norwich City,32,£ 34423 (€ 39626 $43435),£ 1790000 (€ 2060530 $2258630),Unverified estimation,3438cef9
+203,Kenwyne Jones,tt TRI,FW,Stoke City,28,£ 34000 (€ 39139 $42901),£ 1768000 (€ 2035205 $2230870),Unverified estimation,5f3b634e
+204,Fernando Amorebieta,ve VEN,DF,Fulham,28,£ 34000 (€ 39139 $42901),£ 1768000 (€ 2035205 $2230870),Unverified estimation,b2bbc0ec
+205,Sandro,br BRA,MF,Tottenham,24,£ 32404 (€ 37301 $40887),£ 1685000 (€ 1939661 $2126140),Unverified estimation,c1c2c925
+206,Connor Wickham,eng ENG,FWMF,Sunderland,20,£ 32192 (€ 37058 $40620),£ 1674000 (€ 1926998 $2112260),Unverified estimation,41cc19c2
+207,Kim Källström,se SWE,MF,Arsenal,30,£ 32115 (€ 36969 $40523),£ 1670000 (€ 1922394 $2107213),Unverified estimation,c9880157
+208,Phil Bardsley,sct SCO,DF,Sunderland,28,£ 31000 (€ 35685 $39116),£ 1612000 (€ 1855628 $2034028),Unverified estimation,1ae30132
+209,Asmir Begović,ba BIH,GK,Stoke City,26,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,7b4de647
+210,Stephen Ireland,ie IRL,MF,Stoke City,26,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,bcf30f17
+211,Francis Coquelin,fr FRA,,Arsenal,22,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,a6951bf8
+212,Ricky van Wolfswinkel,nl NED,FWMF,Norwich City,24,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,dbe16ade
+213,Steven Davis,nir NIR,MF,Southampton,28,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,cf15bbb1
+214,Marouane Chamakh,ma MAR,FW,Crystal Palace,29,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,790ca5f3
+215,Shane Long,ie IRL,FW,West Brom,26,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,9f472354
+216,Carlton Cole,eng ENG,FW,West Ham,29,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,51b2effb
+217,James Tomkins,eng ENG,DFMF,West Ham,24,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,e7ca0439
+218,Mark Noble,eng ENG,MF,West Ham,26,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,ff527768
+219,Roger Johnson,eng ENG,DF,West Ham,30,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,f6e08a82
+220,Fabio Borini,it ITA,,Liverpool,22,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,ef5b337e
+221,Victor Moses,ng NGA,FWMF,Liverpool,22,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,e726e11e
+222,Jores Okore,dk DEN,DF,Aston Villa,20,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,bd7138e5
+223,Ryan Bertrand,eng ENG,DFMF,Aston Villa,23,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,01226327
+224,Valentin Roberge,cy CYP,DF,Sunderland,26,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,f373db50
+225,Yoan Gouffran,fr FRA,FWMF,Newcastle,27,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,a28d181a
+226,Tom Huddlestone,eng ENG,MF,Hull City,26,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,464cbbc9
+227,César Azpilicueta,es ESP,DFMF,Chelsea,23,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,53cad200
+228,Mohamed Salah,eg EGY,FWMF,Chelsea,21,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,e342ad68
+229,Lacina Traoré,ci CIV,FW,Everton,23,£ 30000 (€ 34534 $37854),£ 1560000 (€ 1795769 $1968415),Unverified estimation,883f251e
+230,Jack Cork,eng ENG,DFMF,Southampton,24,£ 28000 (€ 32232 $35331),£ 1456000 (€ 1676051 $1837187),Unverified estimation,74e12f1e
+231,José Fonte,pt POR,DF,Southampton,29,£ 28000 (€ 32232 $35331),£ 1456000 (€ 1676051 $1837187),Unverified estimation,90f87966
+232,Chris Brunt,nir NIR,DFMF,West Brom,28,£ 28000 (€ 32232 $35331),£ 1456000 (€ 1676051 $1837187),Unverified estimation,ec7e6ad1
+233,Victor Anichebe,ng NGA,FW,West Brom,25,£ 28000 (€ 32232 $35331),£ 1456000 (€ 1676051 $1837187),Unverified estimation,4aed5c19
+234,Michel Vorm,nl NED,GK,Swansea City,29,£ 28000 (€ 32232 $35331),£ 1456000 (€ 1676051 $1837187),Unverified estimation,1bebde9d
+235,Wilfried Bony,ci CIV,FW,Swansea City,24,£ 28000 (€ 32232 $35331),£ 1456000 (€ 1676051 $1837187),Unverified estimation,61abe9b6
+236,Sascha Riether,de GER,DFMF,Fulham,30,£ 28000 (€ 32232 $35331),£ 1456000 (€ 1676051 $1837187),Unverified estimation,3cb009c5
+237,Iago Aspas,es ESP,FWMF,Liverpool,25,£ 27000 (€ 31081 $34069),£ 1404000 (€ 1616192 $1771573),Unverified estimation,7dcf86f6
+238,Aleksandar Tonev,bg BUL,MF,Aston Villa,23,£ 27000 (€ 31081 $34069),£ 1404000 (€ 1616192 $1771573),Unverified estimation,c15d1af9
+239,Steven Naismith,sct SCO,FWMF,Everton,26,£ 27000 (€ 31081 $34069),£ 1404000 (€ 1616192 $1771573),Unverified estimation,5e98c186
+240,Carl Jenkinson,eng ENG,DF,Arsenal,21,£ 26250 (€ 30217 $33122),£ 1365000 (€ 1571298 $1722363),Unverified estimation,874125a3
+241,David Marshall,sct SCO,GK,Cardiff City,28,£ 26000 (€ 29929 $32807),£ 1352000 (€ 1556333 $1705959),Unverified estimation,4d93d433
+242,Shola Ameobi,ng NGA,FW,Newcastle,31,£ 26000 (€ 29929 $32807),£ 1352000 (€ 1556333 $1705959),Unverified estimation,e79a368b
+243,Jonjo Shelvey,eng ENG,MF,Swansea City,21,£ 26000 (€ 29929 $32807),£ 1352000 (€ 1556333 $1705959),Unverified estimation,3727dd3c
+244,Erik Pieters,nl NED,DFMF,Stoke City,24,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,1ef37668
+245,Marc Muniesa,es ESP,DFMF,Stoke City,21,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,4db76f57
+246,Fábio,br BRA,DF,Manchester Utd,23,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,bc7b4580
+247,Leroy Fer,nl NED,MF,Norwich City,23,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,3cefa66a
+248,Luke Shaw,eng ENG,DFMF,Southampton,18,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,9c94165b
+249,Maya Yoshida,jp JPN,DF,Southampton,24,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,caffaf5a
+250,Nathaniel Clyne,eng ENG,DF,Southampton,22,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,0442183b
+251,Vlad Chiricheș,ro ROU,DFMF,Tottenham,23,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,c316607a
+252,Joe Ledley,wls WAL,MF,Crystal Palace,26,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,c221f149
+253,Scott Dann,eng ENG,DF,Crystal Palace,26,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,52105203
+254,Claudio Yacob,ar ARG,MF,West Brom,26,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,bda6ffd4
+255,Gareth McAuley,nir NIR,DF,West Brom,33,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,ac7d7378
+256,Graham Dorrans,sct SCO,FWMF,West Brom,26,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,eeb032db
+257,Fraizer Campbell,eng ENG,FW,Cardiff City,25,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,81d63375
+258,George McCartney,nir NIR,DF,West Ham,32,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,f6c4946d
+259,Guy Demel,ci CIV,DFMF,West Ham,32,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,605bba68
+260,Joey O'Brien,ie IRL,DFMF,West Ham,27,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,ce46f501
+261,Winston Reid,nz NZL,DF,West Ham,25,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,562eed5c
+262,Brad Jones,au AUS,,Liverpool,31,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,ffc1c226
+263,Martin Kelly,eng ENG,DFMF,Liverpool,23,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,d7492450
+264,Raheem Sterling,eng ENG,FWMF,Liverpool,18,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,b400bde0
+265,Ron Vlaar,nl NED,DF,Aston Villa,28,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,366f6f12
+266,Ignacio Scocco,ar ARG,FWMF,Sunderland,28,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,705a763a
+267,Liam Bridcutt,sct SCO,DFMF,Sunderland,24,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,d6066695
+268,Davide Santon,it ITA,DF,Newcastle,22,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,88c89891
+269,Tim Krul,nl NED,GK,Newcastle,25,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,f23f9d20
+270,Allan McGregor,sct SCO,GK,Hull City,31,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,f3a97d02
+271,Marco van Ginkel,nl NED,MF,Chelsea,20,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,47681787
+272,Antolín Alcaraz,py PAR,DF,Everton,31,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,cee38e27
+273,Tony Hibbert,eng ENG,DF,Everton,32,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,c878c4bf
+274,Ashley Williams,wls WAL,DF,Swansea City,28,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,a498e276
+275,Pablo Hernández,es ESP,FWMF,Swansea City,28,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,c0398aca
+276,Ashkan Dejagah,ir IRN,FWMF,Fulham,27,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,5171db60
+277,Derek Boateng,gh GHA,MF,Fulham,30,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,e9ef3a0d
+278,John Arne Riise,no NOR,DFMF,Fulham,32,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,9bf988c2
+279,Kieran Richardson,eng ENG,DFMF,Fulham,28,£ 25000 (€ 28778 $31545),£ 1300000 (€ 1496474 $1640345),Unverified estimation,d2bf40b4
+280,Jack Colback,eng ENG,MF,Sunderland,23,£ 24808 (€ 28557 $31302),£ 1290000 (€ 1484963 $1627727),Unverified estimation,963a9201
+281,Gary Hooper,eng ENG,FW,Norwich City,25,£ 24000 (€ 27627 $30283),£ 1248000 (€ 1436615 $1574732),Unverified estimation,b73ce4ba
+282,Ahmed Elmohamady,eg EGY,DFMF,Hull City,25,£ 24000 (€ 27627 $30283),£ 1248000 (€ 1436615 $1574732),Unverified estimation,615ef733
+283,Curtis Davies,sl SLE,DF,Hull City,28,£ 24000 (€ 27627 $30283),£ 1248000 (€ 1436615 $1574732),Unverified estimation,607fb965
+284,Maynor Figueroa,hn HON,DF,Hull City,30,£ 24000 (€ 27627 $30283),£ 1248000 (€ 1436615 $1574732),Unverified estimation,d8524b21
+285,Ryan Taylor,eng ENG,,Newcastle,28,£ 23000 (€ 26476 $29022),£ 1196000 (€ 1376756 $1509118),Unverified estimation,5c6dd7bc
+286,Steven Reid,ie IRL,DFMF,West Brom,32,£ 22000 (€ 25325 $27760),£ 1144000 (€ 1316897 $1443504),Unverified estimation,e26f852b
+287,Magnus Wolff Eikrem,no NOR,FWMF,Cardiff City,22,£ 22000 (€ 25325 $27760),£ 1144000 (€ 1316897 $1443504),Unverified estimation,3a770838
+288,Bryan Oviedo,cr CRC,DFMF,Everton,23,£ 22000 (€ 25325 $27760),£ 1144000 (€ 1316897 $1443504),Unverified estimation,31faf295
+289,Leon Britton,eng ENG,MF,Swansea City,30,£ 22000 (€ 25325 $27760),£ 1144000 (€ 1316897 $1443504),Unverified estimation,b92dd711
+290,Marcos Alonso,es ESP,DFMF,Sunderland,22,£ 21135 (€ 24329 $26668),£ 1099000 (€ 1265096 $1386723),Unverified estimation,f4290206
+291,Oussama Assaidi,ma MAR,FWMF,Stoke City,24,£ 21000 (€ 24174 $26498),£ 1092000 (€ 1257038 $1377890),Unverified estimation,483322fe
+292,Kyle Naughton,eng ENG,DF,Tottenham,24,£ 20000 (€ 23851 $24304),£ 1040000 (€ 1240267 $1263830),Unverified estimation,e860c42f
+293,James Morrison,sct SCO,FWMF,West Brom,27,£ 20500 (€ 23598 $25867),£ 1066000 (€ 1227109 $1345083),Unverified estimation,21a66e33
+294,William Kvist,dk DEN,MF,Fulham,28,£ 20288 (€ 23355 $25600),£ 1055000 (€ 1214446 $1331203),Unverified estimation,1c639185
+295,Cameron Jerome,eng ENG,FW,Stoke City,26,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,680fb5ee
+296,Łukasz Fabiański,pl POL,GK,Arsenal,28,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,9328b835
+297,Yaya Sanogo,fr FRA,FW,Arsenal,20,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,11ced928
+298,Alexander Büttner,nl NED,DFMF,Manchester Utd,24,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,a44f7c60
+299,Elliott Bennett,eng ENG,DFMF,Norwich City,24,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,02c9ea40
+300,Javier Garrido,es ESP,DF,Norwich City,28,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,3b142ce5
+301,Michael Turner,eng ENG,DF,Norwich City,29,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,422a65eb
+302,Robert Snodgrass,sct SCO,FWMF,Norwich City,25,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,9f4647e9
+303,Russell Martin,sct SCO,DF,Norwich City,27,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,24952f1e
+304,Kyle Naughton,eng ENG,DF,Tottenham,24,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,e860c42f
+305,Jason Puncheon,eng ENG,MF,Crystal Palace,27,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,fd3f57ce
+306,Wayne Hennessey,wls WAL,GK,Crystal Palace,26,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,76eca7e2
+307,Saido Berahino,bi BDI,FWMF,West Brom,19,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,25b166d0
+308,Kévin Théophile-Catherine,fr FRA,DF,Cardiff City,23,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,6b994195
+309,Peter Whittingham,eng ENG,MF,Cardiff City,28,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,f2286f20
+310,Adrián,es ESP,GK,West Ham,26,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,f76e6b4e
+311,Jussi Jääskeläinen,fi FIN,GK,West Ham,38,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,340d2a24
+312,Stephen Henderson,ie IRL,,West Ham,25,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,f234c188
+313,Luis Alberto,es ESP,FWMF,Liverpool,20,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,5294a83f
+314,Ciaran Clark,ie IRL,DFMF,Aston Villa,23,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,2b91cf8e
+315,Grant Holt,eng ENG,FW,Aston Villa,32,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,1b64c1b2
+316,Karim El Ahmadi,ma MAR,MF,Aston Villa,28,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,0ff9eabc
+317,Marc Albrighton,eng ENG,MF,Aston Villa,23,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,b827d5b3
+318,Dan Gosling,eng ENG,DFMF,Newcastle,23,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,7fec31a0
+319,Paul McShane,ie IRL,DF,Hull City,27,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,5785993d
+320,Nathan Aké,nl NED,DFMF,Chelsea,18,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,eaeca114
+321,Tomáš Kalas,cz CZE,DF,Chelsea,20,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,df618867
+322,Séamus Coleman,ie IRL,DFMF,Everton,24,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,0420d84f
+323,Àngel Rangel,es ESP,DF,Swansea City,30,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,93ee387c
+324,Wayne Routledge,eng ENG,FWMF,Swansea City,28,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,1d387eee
+325,Costel Pantilimon,ro ROU,GK,Manchester City,26,£ 20000 (€ 23023 $25236),£ 1040000 (€ 1197179 $1312276),Unverified estimation,d24e154c
+326,Liam Ridgewell,eng ENG,DF,West Brom,29,£ 19500 (€ 22447 $24605),£ 1014000 (€ 1167250 $1279469),Unverified estimation,7c9e057e
+327,Bradley Johnson,eng ENG,DFMF,Norwich City,26,£ 19000 (€ 21872 $23974),£ 988000 (€ 1137320 $1246663),Unverified estimation,e0d9bbbe
+328,Martin Olsson,se SWE,DFMF,Norwich City,25,£ 19000 (€ 21872 $23974),£ 988000 (€ 1137320 $1246663),Unverified estimation,2f72f79e
+329,James Ward-Prowse,eng ENG,MF,Southampton,18,£ 18000 (€ 20720 $22712),£ 936000 (€ 1077461 $1181049),Unverified estimation,3515d404
+330,Jos Hooiveld,nl NED,DFMF,Southampton,30,£ 18000 (€ 20720 $22712),£ 936000 (€ 1077461 $1181049),Unverified estimation,f544a6ab
+331,Kelvin Davis,eng ENG,GK,Southampton,36,£ 18000 (€ 20720 $22712),£ 936000 (€ 1077461 $1181049),Unverified estimation,33b6ee02
+332,Pajtim Kasami,ch SUI,FWMF,Fulham,21,£ 18000 (€ 20720 $22712),£ 936000 (€ 1077461 $1181049),Unverified estimation,fc8c588f
+333,Glenn Murray,eng ENG,FW,Crystal Palace,29,£ 17500 (€ 20145 $22082),£ 910000 (€ 1047532 $1148242),Unverified estimation,f2f29dda
+334,Ashley Westwood,eng ENG,MF,Aston Villa,23,£ 17500 (€ 20145 $22082),£ 910000 (€ 1047532 $1148242),Unverified estimation,495945ef
+335,Nathan Baker,eng ENG,DF,Aston Villa,22,£ 17500 (€ 20145 $22082),£ 910000 (€ 1047532 $1148242),Unverified estimation,b18af9e3
+336,Marc Wilson,ie IRL,DFMF,Stoke City,25,£ 17000 (€ 19569 $21451),£ 884000 (€ 1017602 $1115435),Unverified estimation,c325c010
+337,Matthew Connolly,eng ENG,DF,Cardiff City,25,£ 17000 (€ 19569 $21451),£ 884000 (€ 1017602 $1115435),Unverified estimation,2797fc1d
+338,Chico Flores,es ESP,DF,Swansea City,26,£ 17000 (€ 19569 $21451),£ 884000 (€ 1017602 $1115435),Unverified estimation,95825cf2
+339,Nathan Dyer,eng ENG,FWMF,Swansea City,25,£ 17000 (€ 19569 $21451),£ 884000 (€ 1017602 $1115435),Unverified estimation,6dfd5af0
+340,Neil Taylor,wls WAL,DFMF,Swansea City,24,£ 17000 (€ 19569 $21451),£ 884000 (€ 1017602 $1115435),Unverified estimation,c2f9d19f
+341,Boaz Myhill,wls WAL,GK,West Brom,30,£ 16500 (€ 18994 $20820),£ 858000 (€ 987673 $1082628),Unverified estimation,7ca2d989
+342,Andros Townsend,eng ENG,FWMF,Tottenham,22,£ 16000 (€ 18418 $20189),£ 832000 (€ 957743 $1049821),Unverified estimation,b28bbd58
+343,Dwight Gayle,eng ENG,FW,Crystal Palace,22,£ 16000 (€ 18418 $20189),£ 832000 (€ 957743 $1049821),Unverified estimation,e58a03c6
+344,Julián Speroni,ar ARG,GK,Crystal Palace,34,£ 16000 (€ 18418 $20189),£ 832000 (€ 957743 $1049821),Unverified estimation,8e65a5e5
+345,Mile Jedinak,au AUS,MF,Crystal Palace,28,£ 16000 (€ 18418 $20189),£ 832000 (€ 957743 $1049821),Unverified estimation,22fd2214
+346,Billy Jones,eng ENG,DF,West Brom,26,£ 16000 (€ 18418 $20189),£ 832000 (€ 957743 $1049821),Unverified estimation,aa3cb1ad
+347,Craig Noone,eng ENG,FWMF,Cardiff City,25,£ 16000 (€ 18418 $20189),£ 832000 (€ 957743 $1049821),Unverified estimation,274e493e
+348,Ricardo Vaz Tê,pt POR,FWMF,West Ham,26,£ 16000 (€ 18418 $20189),£ 832000 (€ 957743 $1049821),Unverified estimation,238aa706
+349,David Meyler,ie IRL,MF,Hull City,24,£ 16000 (€ 18418 $20189),£ 832000 (€ 957743 $1049821),Unverified estimation,8ea6417a
+350,George Boyd,sct SCO,FWMF,Hull City,27,£ 16000 (€ 18418 $20189),£ 832000 (€ 957743 $1049821),Unverified estimation,0a9048ce
+351,James Chester,wls WAL,DF,Hull City,24,£ 16000 (€ 18418 $20189),£ 832000 (€ 957743 $1049821),Unverified estimation,a772eba6
+352,Robert Koren,si SVN,DFMF,Hull City,32,£ 16000 (€ 18418 $20189),£ 832000 (€ 957743 $1049821),Unverified estimation,f68eaab2
+353,Sone Aluko,ng NGA,FWMF,Hull City,24,£ 16000 (€ 18418 $20189),£ 832000 (€ 957743 $1049821),Unverified estimation,5a75d4cc
+354,Steve Harper,eng ENG,GK,Hull City,38,£ 16000 (€ 18418 $20189),£ 832000 (€ 957743 $1049821),Unverified estimation,a98f1d52
+355,Yannick Sagbo,ci CIV,FW,Hull City,25,£ 16000 (€ 18418 $20189),£ 832000 (€ 957743 $1049821),Unverified estimation,8320d584
+356,Andy Wilkinson,eng ENG,DF,Stoke City,28,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,9aca56d3
+357,Brek Shea,us USA,DFFW,Stoke City,23,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,adb6ae24
+358,Geoff Cameron,us USA,DFMF,Stoke City,28,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,1a160ea3
+359,Glenn Whelan,ie IRL,MF,Stoke City,29,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,d5bd56a5
+360,Jonathan Walters,ie IRL,FWMF,Stoke City,29,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,0356cf4f
+361,Alexander Tettey,no NOR,MF,Norwich City,27,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,75566759
+362,Anthony Pilkington,ie IRL,FWMF,Norwich City,25,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,b31af577
+363,Luciano Becchio,ar ARG,FW,Norwich City,29,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,3b3d4028
+364,Nathan Redmond,eng ENG,FWMF,Norwich City,19,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,ab651565
+365,Steven Whittaker,sct SCO,DFMF,Norwich City,29,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,06f81a8c
+366,Adrian Mariappa,jm JAM,DF,Crystal Palace,26,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,8aa5f52c
+367,Barry Bannan,sct SCO,MF,Crystal Palace,23,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,9469fb13
+368,Jerome Thomas,eng ENG,FWMF,Crystal Palace,30,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,94cf0dab
+369,Jonathan Parr,no NOR,DF,Crystal Palace,24,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,62110c96
+370,Aron Gunnarsson,is ISL,DFMF,Cardiff City,24,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,e2533c20
+371,Mark Hudson,eng ENG,DF,Cardiff City,31,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,e4e3de44
+372,Tommy Smith,eng ENG,,Cardiff City,33,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,066be641
+373,Jack Collison,wls WAL,MF,West Ham,24,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,0566f8a9
+374,Ravel Morrison,jm JAM,MF,West Ham,20,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,bf59c794
+375,Antonio Luna,es ESP,DF,Aston Villa,22,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,ed239245
+376,Brad Guzan,us USA,GK,Aston Villa,28,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,d899e3bf
+377,Nicklas Helenius,dk DEN,FW,Aston Villa,22,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,ae3d2f47
+378,Yacouba Sylla,ml MLI,MF,Aston Villa,22,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,f121f4b7
+379,Magaye Gueye,fr FRA,,Everton,22,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,82b85f5a
+380,David Stockdale,eng ENG,GK,Fulham,27,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,dc168826
+381,Elsad Zverotić,me MNE,DFMF,Fulham,26,£ 15000 (€ 17267 $18927),£ 780000 (€ 897884 $984207),Unverified estimation,e7fd18a4
+382,David Fox,eng ENG,,Norwich City,29,£ 14000 (€ 16116 $17665),£ 728000 (€ 838025 $918593),Unverified estimation,102a7473
+383,Paulo Gazzaniga,ar ARG,GK,Southampton,21,£ 14000 (€ 16116 $17665),£ 728000 (€ 838025 $918593),Unverified estimation,63d17038
+384,Zoltán Gera,hu HUN,MF,West Brom,34,£ 14000 (€ 16116 $17665),£ 728000 (€ 838025 $918593),Unverified estimation,08bd23a0
+385,Andrew Taylor,eng ENG,DFMF,Cardiff City,26,£ 14000 (€ 16116 $17665),£ 728000 (€ 838025 $918593),Unverified estimation,fb67faf8
+386,Ben Turner,eng ENG,DF,Cardiff City,25,£ 14000 (€ 16116 $17665),£ 728000 (€ 838025 $918593),Unverified estimation,b034ebe2
+387,Jordi Amat,id IDN,DF,Swansea City,21,£ 14000 (€ 16116 $17665),£ 728000 (€ 838025 $918593),Unverified estimation,d70a2141
+388,Matěj Vydra,cz CZE,FWMF,West Brom,21,£ 13981 (€ 16094 $17641),£ 727000 (€ 836874 $917332),Unverified estimation,0d4ceb32
+389,Álvaro Vázquez,es ESP,FW,Swansea City,22,£ 13942 (€ 16049 $17592),£ 725000 (€ 834572 $914808),Unverified estimation,d2d8675a
+390,Roland Lamah,be BEL,FWMF,Swansea City,25,£ 13173 (€ 15164 $16622),£ 685000 (€ 788527 $864336),Unverified estimation,336a36fb
+391,Yannick Bolasie,cd COD,FWMF,Crystal Palace,24,£ 13000 (€ 14965 $16403),£ 676000 (€ 778167 $852980),Unverified estimation,715fc0fe
+392,Jack Butland,eng ENG,GK,Stoke City,20,£ 12500 (€ 14389 $15773),£ 650000 (€ 748237 $820173),Unverified estimation,cc70a1d5
+393,Ryan Shotton,eng ENG,,Stoke City,24,£ 12500 (€ 14389 $15773),£ 650000 (€ 748237 $820173),Unverified estimation,09f82c6e
+394,Joe Bennett,eng ENG,DFMF,Aston Villa,23,£ 12500 (€ 14389 $15773),£ 650000 (€ 748237 $820173),Unverified estimation,dc936144
+395,Ryan Bennett,eng ENG,DF,Norwich City,23,£ 12000 (€ 13814 $15142),£ 624000 (€ 718308 $787366),Unverified estimation,0bad4516
+396,Adlène Guedioura,dz ALG,MF,Crystal Palace,27,£ 12000 (€ 13814 $15142),£ 624000 (€ 718308 $787366),Unverified estimation,f75825e3
+397,Owen Garvan,ie IRL,MF,Crystal Palace,25,£ 12000 (€ 13814 $15142),£ 624000 (€ 718308 $787366),Unverified estimation,47b3b724
+398,Joe Mason,ie IRL,,Cardiff City,22,£ 12000 (€ 13814 $15142),£ 624000 (€ 718308 $787366),Unverified estimation,9d998751
+399,Mike Williamson,eng ENG,DF,Newcastle,29,£ 12000 (€ 13814 $15142),£ 624000 (€ 718308 $787366),Unverified estimation,98fbb38d
+400,Alex Bruce,nir NIR,DF,Hull City,28,£ 12000 (€ 13814 $15142),£ 624000 (€ 718308 $787366),Unverified estimation,102ed2b2
+401,Matty Fryatt,eng ENG,FW,Hull City,27,£ 12000 (€ 13814 $15142),£ 624000 (€ 718308 $787366),Unverified estimation,4980fb08
+402,Alejandro Pozuelo,es ESP,FWMF,Swansea City,21,£ 12000 (€ 13814 $15142),£ 624000 (€ 718308 $787366),Unverified estimation,5e1280ff
+403,Gabriel Obertan,fr FRA,FWMF,Newcastle,24,£ 11500 (€ 13238 $14511),£ 598000 (€ 688378 $754559),Unverified estimation,adc264a8
+404,Emiliano Viviano,it ITA,,Arsenal,27,£ 11385 (€ 13105 $14365),£ 592000 (€ 681471 $746988),Unverified estimation,03760df0
+405,Ross Barkley,eng ENG,MF,Everton,19,£ 11038 (€ 12707 $13928),£ 574000 (€ 660751 $724276),Unverified estimation,3a24769f
+406,Ben Davies,wls WAL,DFMF,Swansea City,20,£ 11000 (€ 12662 $13880),£ 572000 (€ 658449 $721752),Unverified estimation,44781702
+407,Leroy Lita,eng ENG,FW,Swansea City,28,£ 11000 (€ 12662 $13880),£ 572000 (€ 658449 $721752),Unverified estimation,238f467d
+408,Alexander Kačaniklić,se SWE,FWMF,Fulham,21,£ 11000 (€ 12662 $13880),£ 572000 (€ 658449 $721752),Unverified estimation,8ba3a754
+409,Craig Dawson,eng ENG,DF,West Brom,23,£ 10500 (€ 12087 $13249),£ 546000 (€ 628519 $688945),Unverified estimation,3e9e06cb
+410,Apostolos Vellios,gr GRE,,Everton,21,£ 10346 (€ 11910 $13055),£ 538000 (€ 619310 $678851),Unverified estimation,44918bf5
+411,Serge Gnabry,de GER,FWMF,Arsenal,18,£ 10000 (€ 11511 $12618),£ 520000 (€ 598590 $656138),Unverified estimation,88e357ef
+412,Ben Amos,eng ENG,,Manchester Utd,23,£ 10000 (€ 11511 $12618),£ 520000 (€ 598590 $656138),Unverified estimation,f6799cd2
+413,Mark Bunn,eng ENG,,Norwich City,28,£ 10000 (€ 11511 $12618),£ 520000 (€ 598590 $656138),Unverified estimation,a6738b6c
+414,Nabil Bentaleb,dz ALG,MF,Tottenham,18,£ 10000 (€ 11511 $12618),£ 520000 (€ 598590 $656138),Unverified estimation,3189f61a
+415,Damien Delaney,ie IRL,DF,Crystal Palace,32,£ 10000 (€ 11511 $12618),£ 520000 (€ 598590 $656138),Unverified estimation,210d9ecb
+416,Danny Gabbidon,wls WAL,DF,Crystal Palace,33,£ 10000 (€ 11511 $12618),£ 520000 (€ 598590 $656138),Unverified estimation,90148433
+417,Dean Moxey,eng ENG,DFFW,Crystal Palace,27,£ 10000 (€ 11511 $12618),£ 520000 (€ 598590 $656138),Unverified estimation,8616e501
+418,Kagisho Dikgacoi,za RSA,MF,Crystal Palace,28,£ 10000 (€ 11511 $12618),£ 520000 (€ 598590 $656138),Unverified estimation,701d7cac
+419,Jo Inge Berget,no NOR,FWMF,Cardiff City,22,£ 10000 (€ 11511 $12618),£ 520000 (€ 598590 $656138),Unverified estimation,f512a009
+420,Jordon Mutch,eng ENG,MF,Cardiff City,21,£ 10000 (€ 11511 $12618),£ 520000 (€ 598590 $656138),Unverified estimation,37c408cc
+421,Jed Steer,eng ENG,,Aston Villa,20,£ 10000 (€ 11511 $12618),£ 520000 (€ 598590 $656138),Unverified estimation,a8a3d139
+422,Vito Mannone,it ITA,GK,Sunderland,25,£ 10000 (€ 11511 $12618),£ 520000 (€ 598590 $656138),Unverified estimation,c4173f1a
+423,Liam Rosenior,eng ENG,DF,Hull City,29,£ 10000 (€ 11511 $12618),£ 520000 (€ 598590 $656138),Unverified estimation,8b0d6fe9
+424,Robbie Brady,ie IRL,DFFW,Hull City,21,£ 10000 (€ 11511 $12618),£ 520000 (€ 598590 $656138),Unverified estimation,96bb8cc2
+425,Stephen Quinn,ie IRL,FWMF,Hull City,27,£ 10000 (€ 11511 $12618),£ 520000 (€ 598590 $656138),Unverified estimation,9ff17f6f
+426,John Stones,eng ENG,DF,Everton,19,£ 10000 (€ 11511 $12618),£ 520000 (€ 598590 $656138),Unverified estimation,5eecec3d
+427,Dwight Tiendalli,nl NED,DF,Swansea City,27,£ 10000 (€ 11511 $12618),£ 520000 (€ 598590 $656138),Unverified estimation,e7a1007d
+428,Garry Monk,eng ENG,,Swansea City,34,£ 10000 (€ 11511 $12618),£ 520000 (€ 598590 $656138),Unverified estimation,a70de3a4
+429,Gerhard Tremmel,de GER,GK,Swansea City,34,£ 10000 (€ 11511 $12618),£ 520000 (€ 598590 $656138),Unverified estimation,4370cecc
+430,Abdul Razak,ci CIV,,West Ham,20,£ 9712 (€ 11179 $12254),£ 505000 (€ 581323 $637211),Unverified estimation,5e61927c
+431,Danny Rose,eng ENG,DFMF,Tottenham,23,£ 9000 (€ 10360 $11356),£ 468000 (€ 538731 $590524),Unverified estimation,89d10e53
+432,Don Cowie,sct SCO,MF,Cardiff City,30,£ 9000 (€ 10360 $11356),£ 468000 (€ 538731 $590524),Unverified estimation,c06e8b72
+433,Gerard Deulofeu,es ESP,FWMF,Everton,19,£ 8885 (€ 10227 $11211),£ 462000 (€ 531824 $582954),Unverified estimation,39583cfd
+434,Lewis Baker,eng ENG,,Chelsea,18,£ 8500 (€ 9785 $10725),£ 442000 (€ 508801 $557717),Unverified estimation,1b278bf5
+435,Sam Johnstone,eng ENG,,Manchester Utd,20,£ 8000 (€ 9209 $10094),£ 416000 (€ 478872 $524911),Unverified estimation,9e5708be
+436,Carlo Nash,eng ENG,,Norwich City,39,£ 8000 (€ 9209 $10094),£ 416000 (€ 478872 $524911),Unverified estimation,bd9670b3
+437,Joe Lewis,eng ENG,GK,Cardiff City,25,£ 8000 (€ 9209 $10094),£ 416000 (€ 478872 $524911),Unverified estimation,d45bc2f4
+438,Leandro Bacuna,cw CUW,DFMF,Aston Villa,21,£ 8000 (€ 9209 $10094),£ 416000 (€ 478872 $524911),Unverified estimation,9dc69d38
+439,Richard Wright,eng ENG,,Manchester City,35,£ 8000 (€ 9209 $10094),£ 416000 (€ 478872 $524911),Unverified estimation,d9e2e2ae
+440,Rob Elliot,ie IRL,GK,Newcastle,27,£ 7942 (€ 9143 $10022),£ 413000 (€ 475418 $521125),Unverified estimation,b1b25949
+441,Marvin Emnes,nl NED,FWMF,Swansea City,25,£ 7673 (€ 8833 $9682),£ 399000 (€ 459302 $503460),Unverified estimation,a5900d91
+442,Dedryck Boyata,be BEL,DF,Manchester City,22,£ 7500 (€ 8634 $9464),£ 390000 (€ 448942 $492104),Unverified estimation,7c473e12
+443,Karim Rekik,nl NED,,Manchester City,18,£ 7500 (€ 8634 $9464),£ 390000 (€ 448942 $492104),Unverified estimation,3376a776
+444,Sammy Ameobi,eng ENG,FWMF,Newcastle,21,£ 7269 (€ 8368 $9172),£ 378000 (€ 435129 $476962),Unverified estimation,acd61628
+445,Kevin McNaughton,sct SCO,DF,Cardiff City,30,£ 7000 (€ 8058 $8833),£ 364000 (€ 419013 $459297),Unverified estimation,40a814af
+446,Eldin Jakupović,ch SUI,GK,Hull City,28,£ 7000 (€ 8058 $8833),£ 364000 (€ 419013 $459297),Unverified estimation,1148323a
+447,Luke Garbutt,eng ENG,DFMF,Everton,20,£ 7000 (€ 8058 $8833),£ 364000 (€ 419013 $459297),Unverified estimation,41017ad5
+448,Kyle Bartley,eng ENG,DF,Swansea City,22,£ 7000 (€ 8058 $8833),£ 364000 (€ 419013 $459297),Unverified estimation,18e96f64
+449,Ondřej Čelůstka,cz CZE,DF,Sunderland,24,£ 6692 (€ 7704 $8444),£ 348000 (€ 400595 $439108),Unverified estimation,393a257c
+450,Tom Ince,eng ENG,FWMF,Crystal Palace,21,£ 6500 (€ 7482 $8202),£ 338000 (€ 389083 $426490),Unverified estimation,67d23ab0
+451,Joe Dudgeon,nir NIR,,Hull City,22,£ 6000 (€ 6907 $7571),£ 312000 (€ 359154 $393683),Unverified estimation,96ff7c5d
+452,Ryan Tunnicliffe,eng ENG,MF,Fulham,20,£ 6000 (€ 6907 $7571),£ 312000 (€ 359154 $393683),Unverified estimation,534e83a0
+453,Goran Popov,mk MKD,DFMF,West Brom,28,£ 5885 (€ 6774 $7425),£ 306000 (€ 352247 $386112),Unverified estimation,4b7fd1e2
+454,Joel Ward,eng ENG,DFMF,Crystal Palace,23,£ 5500 (€ 6331 $6940),£ 286000 (€ 329224 $360876),Unverified estimation,8a7ff278
+455,Chris Herd,au AUS,DFMF,Aston Villa,24,£ 5500 (€ 6331 $6940),£ 286000 (€ 329224 $360876),Unverified estimation,3d5db1eb
+456,Gary Gardner,eng ENG,,Aston Villa,21,£ 5500 (€ 6331 $6940),£ 286000 (€ 329224 $360876),Unverified estimation,d9d58641
+457,Jake Livermore,eng ENG,MF,Hull City,23,£ 5500 (€ 6331 $6940),£ 286000 (€ 329224 $360876),Unverified estimation,b98570d1
+458,Lloyd Isgrove,wls WAL,,Southampton,20,£ 5000 (€ 5756 $6309),£ 260000 (€ 299295 $328069),Unverified estimation,430696d5
+459,Harry Kane,eng ENG,FW,Tottenham,20,£ 5000 (€ 5756 $6309),£ 260000 (€ 299295 $328069),Unverified estimation,21a66f6a
+460,Neil Alexander,sct SCO,,Crystal Palace,35,£ 5000 (€ 5756 $6309),£ 260000 (€ 299295 $328069),Unverified estimation,f538d303
+461,Simon Lappin,sct SCO,,Cardiff City,30,£ 5000 (€ 5756 $6309),£ 260000 (€ 299295 $328069),Unverified estimation,a985ccde
+462,Jaanai Gordon,eng ENG,,West Ham,17,£ 5000 (€ 5756 $6309),£ 260000 (€ 299295 $328069),Unverified estimation,8a20519d
+463,Daniel Johnson,jm JAM,,Aston Villa,20,£ 5000 (€ 5756 $6309),£ 260000 (€ 299295 $328069),Unverified estimation,6d477b52
+464,Jordan Bowery,kn SKN,DFFW,Aston Villa,22,£ 5000 (€ 5756 $6309),£ 260000 (€ 299295 $328069),Unverified estimation,8f5a4e15
+465,Luke Daniels,eng ENG,GK,West Brom,25,£ 4250 (€ 4892 $5363),£ 221000 (€ 254401 $278859),Unverified estimation,87fce32b
+466,Jacob Murphy,eng ENG,,Norwich City,18,£ 4000 (€ 4605 $5047),£ 208000 (€ 239436 $262455),Unverified estimation,de112b84
+467,Aaron Wilbraham,eng ENG,FW,Crystal Palace,33,£ 4000 (€ 4605 $5047),£ 208000 (€ 239436 $262455),Unverified estimation,9b2c7f55
+468,Declan John,wls WAL,DFMF,Cardiff City,18,£ 4000 (€ 4605 $5047),£ 208000 (€ 239436 $262455),Unverified estimation,8e42ea27
+469,Larnell Cole,eng ENG,MF,Fulham,20,£ 4000 (€ 4605 $5047),£ 208000 (€ 239436 $262455),Unverified estimation,ce1faab0
+470,Lasse Vigen Christensen,dk DEN,,Fulham,18,£ 4000 (€ 4605 $5047),£ 208000 (€ 239436 $262455),Unverified estimation,bfa643a1
+471,Michael Keane,eng ENG,,Manchester Utd,20,£ 3500 (€ 4029 $4416),£ 182000 (€ 209506 $229648),Unverified estimation,c5b7c315
+472,Adam King,sct SCO,,Swansea City,17,£ 3500 (€ 4029 $4416),£ 182000 (€ 209506 $229648),Unverified estimation,73aad99a
+473,Thomas Eisfeld,de GER,,Arsenal,20,£ 3000 (€ 3453 $3785),£ 156000 (€ 179577 $196841),Unverified estimation,9f3796f1
+474,Jonathan Obika,eng ENG,,Tottenham,22,£ 3000 (€ 3453 $3785),£ 156000 (€ 179577 $196841),Unverified estimation,ccecacd5
+475,Lewis Price,wls WAL,,Crystal Palace,28,£ 3000 (€ 3453 $3785),£ 156000 (€ 179577 $196841),Unverified estimation,55f07e07
+476,Sebastian Lletget,us USA,,West Ham,20,£ 3000 (€ 3453 $3785),£ 156000 (€ 179577 $196841),Unverified estimation,73019c31
+477,Chris David,nl NED,FWMF,Fulham,20,£ 3000 (€ 3453 $3785),£ 156000 (€ 179577 $196841),Unverified estimation,51ceacc1
+478,Dan Burn,eng ENG,DF,Fulham,21,£ 3000 (€ 3453 $3785),£ 156000 (€ 179577 $196841),Unverified estimation,b2d31e83
+479,Mesca,pt POR,MF,Fulham,20,£ 3000 (€ 3453 $3785),£ 156000 (€ 179577 $196841),Unverified estimation,7969682e
+480,Jesse Lingard,eng ENG,,Manchester Utd,20,£ 2500 (€ 2878 $3155),£ 130000 (€ 149647 $164035),Unverified estimation,810e3c74
+481,Jordan Archer,sct SCO,,Tottenham,20,£ 2500 (€ 2878 $3155),£ 130000 (€ 149647 $164035),Unverified estimation,480c4a00
+482,John Swift,eng ENG,FWMF,Chelsea,18,£ 2500 (€ 2878 $3155),£ 130000 (€ 149647 $164035),Unverified estimation,646ee278
+483,David Cornell,wls WAL,,Swansea City,22,£ 2500 (€ 2878 $3155),£ 130000 (€ 149647 $164035),Unverified estimation,0c9aad01
+484,Rory Donnelly,nir NIR,,Swansea City,21,£ 2500 (€ 2878 $3155),£ 130000 (€ 149647 $164035),Unverified estimation,0d75d1f6
+485,Jay Fulton,sct SCO,MF,Swansea City,19,£ 2135 (€ 2457 $2693),£ 111000 (€ 127776 $140060),Unverified estimation,434ad289
+486,Alex Iwobi,ng NGA,,Arsenal,17,£ 2000 (€ 2302 $2524),£ 104000 (€ 119718 $131228),Unverified estimation,6ca5ec4b
+487,Chuba Akpom,eng ENG,FWMF,Arsenal,17,£ 2000 (€ 2302 $2524),£ 104000 (€ 119718 $131228),Unverified estimation,e2b384d2
+488,Kristoffer Olsson,se SWE,,Arsenal,18,£ 2000 (€ 2302 $2524),£ 104000 (€ 119718 $131228),Unverified estimation,fa73ccc7
+489,Jack Stephens,eng ENG,,Southampton,19,£ 2000 (€ 2302 $2524),£ 104000 (€ 119718 $131228),Unverified estimation,6adbc307
+490,Stuart O'Keefe,eng ENG,MF,Crystal Palace,22,£ 2000 (€ 2302 $2524),£ 104000 (€ 119718 $131228),Unverified estimation,d0f8d154
+491,Donervon Daniels,ms MSR,,West Brom,19,£ 2000 (€ 2302 $2524),£ 104000 (€ 119718 $131228),Unverified estimation,06757dde
+492,Kadeem Harris,eng ENG,,Cardiff City,20,£ 2000 (€ 2302 $2524),£ 104000 (€ 119718 $131228),Unverified estimation,24396398
+493,Danny Whitehead,eng ENG,,West Ham,19,£ 2000 (€ 2302 $2524),£ 104000 (€ 119718 $131228),Unverified estimation,c99e9b5d
+494,Cameron Brannagan,eng ENG,,Liverpool,17,£ 2000 (€ 2302 $2524),£ 104000 (€ 119718 $131228),Unverified estimation,9220e731
+495,Jordon Ibe,eng ENG,FWMF,Liverpool,17,£ 2000 (€ 2302 $2524),£ 104000 (€ 119718 $131228),Unverified estimation,9f736ed2
+496,Stephen Sama,de GER,,Liverpool,20,£ 2000 (€ 2302 $2524),£ 104000 (€ 119718 $131228),Unverified estimation,71207b59
+497,Paul Dummett,wls WAL,DF,Newcastle,21,£ 2000 (€ 2302 $2524),£ 104000 (€ 119718 $131228),Unverified estimation,3fe6bd8c
+498,Jamal Blackman,eng ENG,,Chelsea,19,£ 2000 (€ 2302 $2524),£ 104000 (€ 119718 $131228),Unverified estimation,dd26b605
+499,Conor McAleny,eng ENG,,Everton,20,£ 2000 (€ 2302 $2524),£ 104000 (€ 119718 $131228),Unverified estimation,5dc37d9d
+500,Cody Cropper,us USA,,Southampton,20,£ 1500 (€ 1727 $1893),£ 78000 (€ 89788 $98421),Unverified estimation,aa133046
+501,Zeki Fryers,eng ENG,DF,Tottenham,20,£ 1500 (€ 1727 $1893),£ 78000 (€ 89788 $98421),Unverified estimation,f58d6213
+502,Callum Robinson,ie IRL,FWMF,Aston Villa,18,£ 1500 (€ 1727 $1893),£ 78000 (€ 89788 $98421),Unverified estimation,e75750a3
+503,Janoi Donacien,lc LCA,,Aston Villa,19,£ 1500 (€ 1727 $1893),£ 78000 (€ 89788 $98421),Unverified estimation,07bd38c5
+504,Jordan Pickford,eng ENG,,Sunderland,19,£ 1500 (€ 1727 $1893),£ 78000 (€ 89788 $98421),Unverified estimation,4806ec67
+505,Conor Henderson,eng ENG,,Hull City,21,£ 1500 (€ 1727 $1893),£ 78000 (€ 89788 $98421),Unverified estimation,5f74f8f6
+506,Lee Lucas,wls WAL,,Swansea City,21,£ 1500 (€ 1727 $1893),£ 78000 (€ 89788 $98421),Unverified estimation,bba915ae
+507,Ange-Freddy Plumain,fr FRA,,Fulham,18,£ 1500 (€ 1727 $1893),£ 78000 (€ 89788 $98421),Unverified estimation,7d349b92
+508,Neil Etheridge,ph PHI,,Fulham,23,£ 1500 (€ 1727 $1893),£ 78000 (€ 89788 $98421),Unverified estimation,2642bf6c
+509,Daniel Bachmann,at AUT,,Stoke City,18,£ 1192 (€ 1373 $1504),£ 62000 (€ 71370 $78232),Unverified estimation,1c0eea98
+510,Jak Alnwick,eng ENG,,Newcastle,20,£ 1192 (€ 1373 $1504),£ 62000 (€ 71370 $78232),Unverified estimation,b0835fc0
+511,Remie Streete,eng ENG,,Newcastle,18,£ 1192 (€ 1373 $1504),£ 62000 (€ 71370 $78232),Unverified estimation,0c653b95
+512,Lucas Dawson,eng ENG,,Stoke City,19,£ 1000 (€ 1151 $1262),£ 52000 (€ 59859 $65614),Unverified estimation,4c556558
+513,Isaac Hayden,jm JAM,,Arsenal,18,£ 1000 (€ 1151 $1262),£ 52000 (€ 59859 $65614),Unverified estimation,c951a6df
+514,James Wilson,eng ENG,FWMF,Manchester Utd,17,£ 1000 (€ 1151 $1262),£ 52000 (€ 59859 $65614),Unverified estimation,b0d786ee
+515,Tom Lawrence,wls WAL,FWMF,Manchester Utd,19,£ 1000 (€ 1151 $1262),£ 52000 (€ 59859 $65614),Unverified estimation,7e2f45f4
+516,Miloš Veljković,rs SRB,DF,Tottenham,17,£ 1000 (€ 1151 $1262),£ 52000 (€ 59859 $65614),Unverified estimation,a5ae8f8e
+517,Kyle De Silva,eng ENG,,Crystal Palace,19,£ 1000 (€ 1151 $1262),£ 52000 (€ 59859 $65614),Unverified estimation,e12610b6
+518,Liam O'Neil,eng ENG,DFMF,West Brom,20,£ 1000 (€ 1151 $1262),£ 52000 (€ 59859 $65614),Unverified estimation,22e07c17
+519,Blair Turgott,jm JAM,,West Ham,19,£ 1000 (€ 1151 $1262),£ 52000 (€ 59859 $65614),Unverified estimation,2c272afa
+520,Matthias Fanimo,eng ENG,,West Ham,19,£ 1000 (€ 1151 $1262),£ 52000 (€ 59859 $65614),Unverified estimation,90798816
+521,Seán Maguire,ie IRL,,West Ham,19,£ 1000 (€ 1151 $1262),£ 52000 (€ 59859 $65614),Unverified estimation,7f07729c
+522,Tyias Browning,cn CHN,,Everton,19,£ 1000 (€ 1151 $1262),£ 52000 (€ 59859 $65614),Unverified estimation,c4e180f0
+523,Josh Passley,eng ENG,,Fulham,18,£ 1000 (€ 1151 $1262),£ 52000 (€ 59859 $65614),Unverified estimation,e1672820
+524,Jerome Binnom-Williams,eng ENG,,Crystal Palace,18,£ 808 (€ 930 $1019),£ 42000 (€ 48348 $52996),Unverified estimation,34da23fc
+525,Calaum Jahraldo-Martin,ag ATG,,Hull City,20,£ 808 (€ 930 $1019),£ 42000 (€ 48348 $52996),Unverified estimation,6710a68e
+526,Mason Springthorpe,eng ENG,,Everton,18,£ 808 (€ 930 $1019),£ 42000 (€ 48348 $52996),Unverified estimation,bbbdbb89
+527,Charlie Ward,eng ENG,,Stoke City,18,£ 750 (€ 863 $946),£ 39000 (€ 44894 $49210),Unverified estimation,ff760b59
+528,Quade Taylor,eng ENG,,Crystal Palace,19,£ 750 (€ 863 $946),£ 39000 (€ 44894 $49210),Unverified estimation,dfaf05c2
+529,Cameron Gayle,eng ENG,,West Brom,20,£ 750 (€ 863 $946),£ 39000 (€ 44894 $49210),Unverified estimation,0bfb3fb3
+530,Kemar Roofe,jm JAM,,West Brom,20,£ 750 (€ 863 $946),£ 39000 (€ 44894 $49210),Unverified estimation,5f3d00d1
+531,Gregor Zabret,si SVN,,Swansea City,17,£ 750 (€ 863 $946),£ 39000 (€ 44894 $49210),Unverified estimation,13991167
+532,Jesse Joronen,fi FIN,,Fulham,20,£ 750 (€ 863 $946),£ 39000 (€ 44894 $49210),Unverified estimation,7f66ea09
+533,Cauley Woodrow,eng ENG,FWMF,Fulham,18,£ 692 (€ 797 $874),£ 36000 (€ 41441 $45425),Unverified estimation,d3085b49
+534,Raphael Spiegel,ch SUI,,West Ham,20,£ 673 (€ 775 $849),£ 35000 (€ 40290 $44163),Unverified estimation,050b9803
+535,Harrison Reed,eng ENG,MF,Southampton,18,£ 596 (€ 686 $752),£ 31000 (€ 35685 $39116),Unverified estimation,803ae100
+536,Omar Rowe,eng ENG,,Southampton,18,£ 596 (€ 686 $752),£ 31000 (€ 35685 $39116),Unverified estimation,f3ff61a3
+537,Jake Sinclair,eng ENG,,Southampton,18,£ 500 (€ 576 $631),£ 26000 (€ 29929 $32807),Unverified estimation,e034bbc8
+538,Dominic Ball,eng ENG,,Tottenham,17,£ 500 (€ 576 $631),£ 26000 (€ 29929 $32807),Unverified estimation,79d61875
+539,Laste Dombaxe,eng ENG,,Tottenham,18,£ 500 (€ 576 $631),£ 26000 (€ 29929 $32807),Unverified estimation,c6f9f78a
+540,Alex Wynter,eng ENG,,Crystal Palace,19,£ 500 (€ 576 $631),£ 26000 (€ 29929 $32807),Unverified estimation,f9601336
+541,Ross Fitzsimons,eng ENG,,Crystal Palace,19,£ 500 (€ 576 $631),£ 26000 (€ 29929 $32807),Unverified estimation,fd3a5999
+542,Ryan Inniss,eng ENG,,Crystal Palace,18,£ 500 (€ 576 $631),£ 26000 (€ 29929 $32807),Unverified estimation,600ae8cb
+543,Deji Oshilaja,eng ENG,,Cardiff City,19,£ 500 (€ 576 $631),£ 26000 (€ 29929 $32807),Unverified estimation,515f0819
+544,Rhys Healey,wls WAL,FW,Cardiff City,18,£ 500 (€ 576 $631),£ 26000 (€ 29929 $32807),Unverified estimation,07ace8c3
+545,Callum Driver,eng ENG,,West Ham,20,£ 500 (€ 576 $631),£ 26000 (€ 29929 $32807),Unverified estimation,a5715b00
+546,Dylan Tombides,au AUS,,West Ham,20,£ 500 (€ 576 $631),£ 26000 (€ 29929 $32807),Unverified estimation,3b534749
+547,Joel Dixon,eng ENG,,Sunderland,19,£ 500 (€ 576 $631),£ 26000 (€ 29929 $32807),Unverified estimation,7ed390a2
+548,Liam Agnew,eng ENG,,Sunderland,18,£ 500 (€ 576 $631),£ 26000 (€ 29929 $32807),Unverified estimation,0b93efcd
+549,Matthew Fletcher,,,Hull City,21,£ 500 (€ 576 $631),£ 26000 (€ 29929 $32807),Unverified estimation,-9999
+550,Josh Pritchard,wls WAL,,Fulham,20,£ 500 (€ 576 $631),£ 26000 (€ 29929 $32807),Unverified estimation,0582dc7d
+551,Matthew Briggs,gy GUY,DF,Fulham,22,£ 442 (€ 509 $558),£ 23000 (€ 26476 $29021),Unverified estimation,182c89db
+552,Elliot Lee,eng ENG,FWMF,West Ham,18,£ 404 (€ 465 $510),£ 21000 (€ 24174 $26498),Unverified estimation,e5192234
+553,Gedion Zelalem,us USA,,Arsenal,16,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,b15ac68f
+554,Adel Gafaiti,dz ALG,,Norwich City,18,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,a1a0279d
+555,Jamar Loza,jm JAM,FWMF,Norwich City,19,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,e8f3848e
+556,Reece Hall-Johnson,eng ENG,,Norwich City,18,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,4a5c7dde
+557,Jason McCarthy,eng ENG,,Southampton,17,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,63741fb9
+558,Sam Gallagher,eng ENG,FWMF,Southampton,17,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,44361ade
+559,Sam McQueen,eng ENG,,Southampton,18,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,b27b49b4
+560,Connor Ogilvie,eng ENG,,Tottenham,17,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,c096c77f
+561,Harry Winks,eng ENG,,Tottenham,17,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,2f7acede
+562,Hiram Boateng,eng ENG,,Crystal Palace,17,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,929917ce
+563,Leo Chambers,eng ENG,,West Ham,17,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,1b09c1ec
+564,Reece Burke,eng ENG,,West Ham,16,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,a681b7b7
+565,Brad Smith,au AUS,DFMF,Liverpool,19,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,c76c717c
+566,Jordan Rossiter,eng ENG,,Liverpool,16,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,0e459095
+567,Adam Armstrong,eng ENG,FWMF,Newcastle,16,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,68c720b5
+568,Ľubomír Šatka,sk SVK,,Newcastle,17,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,d665d581
+569,Ryan Ledson,eng ENG,,Everton,15,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,33a5c9b8
+570,George Williams,wls WAL,,Fulham,17,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,4159940e
+571,Muamer Tanković,se SWE,FWMF,Fulham,18,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,b44c39da
+572,Patrick Roberts,eng ENG,FWMF,Fulham,16,£ 400 (€ 460 $505),£ 20800 (€ 23944 $26246),Unverified estimation,59d93937
